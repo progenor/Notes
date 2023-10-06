@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "b5aa87085b73b04c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f885a0915f22d98c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68e763424c954366",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000/010/Programozas e.a/eloadasok/015 bit ex.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "198b2b370ac3d582",
+    "type": "split",
+    "children": [
+      {
+        "id": "c20fbe35dea1df28",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1338258ff36d528",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "2580741eb0c2e35e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9bc55ef02af8fe53",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fbb5ed34af40dcdc",
+    "type": "split",
+    "children": [
+      {
+        "id": "4cb215ba294ebe8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb6e89430e55d07a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "000/010/Programozas e.a/eloadasok/015 bit ex.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "944fd27da82e13de",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "000/010/Programozas e.a/eloadasok/015 bit ex.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "76abd986000fdacc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e076ede99911f120",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "000/010/Programozas e.a/eloadasok/015 bit ex.md"
+              }
+            }
+          },
+          {
+            "id": "830037c6f2bce03d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "e211dd7e4190f428",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "581b7fdbbf38ac0a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 276.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "markdown-importer:Open format converter": false,
+      "publish:Publish changes...": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+    }
+  },
+  "active": "68e763424c954366",
+  "lastOpenFiles": [
+    "000/010/Programozas e.a/eloadasok/013 ifs and buts switch and ducks.md",
+    "000/010/Programozas e.a/eloadasok/011 C basics , input, output.md",
+    "000/010/Programozas e.a/eloadasok/012 memory storage.md",
+    "000/010/Programozas e.a/eloadasok/015 bit ex.md",
+    "000/010/Fizika/eloadasok/011 mertekegysegek.md",
+    "000/010/Fizika/eloadasok/012.md",
+    "000/010/Fizika/eloadasok/attachments/012 2023-10-05 10.00.50.excalidraw.md",
+    "000/010/Fizika/eloadasok/attachments",
+    "000/010/Programozas e.a/eloadasok/014 ciklusok.md",
+    "000/010/Programozas e.a/attachments/programozas_ciklusok.excalidraw.md",
+    "000/010/Programozas e.a/eloadasok/011 Programozas e.a ismertetes.md",
+    "000/010/Digitalis Elektronika/eloadasok/011.md",
+    "000/010/Tortenelem/eloadasok/011 elso eloadas kezdet.md",
+    "000/010/First semester.md",
+    "TODOS.md",
+    "000/010/attachments/Pasted image 20231001193448.png",
+    "000/010/attachments/Pasted image 20230927003248.png",
+    "000/010/Programozas e.a/subNotes/scanf.md",
+    "000/010/Programozas e.a/subNotes/read from file.md",
+    "000/010/Programozas e.a/subNotes/printf.md",
+    "templates/Default note template.md",
+    "000/010/Analizis/eloadasok/011.md",
+    "000/010/attachments",
+    "TodoSubNotes/fizika labor @{2023-10-03}.md",
+    "000/010/Programozas e.a/attachments/C_Nyelv_es_Programozas_kinyomtatva_Debrecen.pdf",
+    "Excalidraw/Drawing 2023-09-26 10.05.54.excalidraw.md",
+    "TodoSubNotes",
+    "Excalidraw/Drawing 2023-09-25 10.12.33.excalidraw.md",
+    "000/010/Analizis/eloadasok/attachments/Pasted image 20230925141305.png",
+    "000/010/Analizis/eloadasok/attachments",
+    "000/010/Programozas e.a/Untitled.md",
+    "000/010/Tortenelem/subNotes",
+    "000/010/Tortenelem/eloadasok",
+    "000/010/Tortenelem/attachments",
+    "000/010/Tortenelem",
+    "000/010/Digitalis Elektronika/subNotes",
+    "000/010/Fizika alapjai/Untitled.md",
+    "000/010/Fizika alapjai/Untitled Kanban.md",
+    "000/010/Fizika alapjai/Untitled 1.md",
+    "Untitled.canvas"
+  ]
+}

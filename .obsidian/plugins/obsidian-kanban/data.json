@@ -1,0 +1,40 @@
+{
+  "new-line-trigger": "enter",
+  "new-note-folder": "TodoSubNotes",
+  "show-checkboxes": true,
+  "tag-colors": [
+    {
+      "tagKey": "#todo",
+      "color": "rgba(255, 0, 0, 1)",
+      "backgroundColor": "rgba(0, 0, 0, 0.1)"
+    }
+  ],
+  "show-relative-date": true,
+  "date-colors": [
+    {
+      "isToday": false,
+      "distance": 1,
+      "unit": "days",
+      "direction": "after",
+      "backgroundColor": "rgba(255, 38, 38, 0.71)",
+      "color": "rgba(0, 0, 0, 1)"
+    },
+    {
+      "isToday": false,
+      "distance": 2,
+      "unit": "days",
+      "direction": "after",
+      "backgroundColor": "rgba(21, 49, 255, 1)",
+      "color": "rgba(0, 0, 0, 1)"
+    },
+    {
+      "isToday": false,
+      "distance": 4,
+      "unit": "days",
+      "direction": "after",
+      "backgroundColor": "rgba(38, 255, 5, 1)",
+      "color": "rgba(0, 0, 0, 1)"
+    }
+  ],
+  "archive-with-date": true
+}

@@ -1,5 +1,5 @@
 ---
-type: 
+type: eloadas
 date: "{{date}}"
 class: 
 tags:

@@ -1,0 +1,2 @@
+# Kernel
+- hardware and bios 

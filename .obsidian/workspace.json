@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f885a0915f22d98c",
+        "id": "3323064d0213cff9",
         "type": "tabs",
         "children": [
           {
-            "id": "68e763424c954366",
+            "id": "c881978c1f856af7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000/010/Programozas e.a/eloadasok/015 bit ex.md",
+                "file": "000/School/architektura/Hatszintu szamitogep felepitese.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,35 +80,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fb6e89430e55d07a",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "000/010/Programozas e.a/eloadasok/015 bit ex.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "944fd27da82e13de",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "000/010/Programozas e.a/eloadasok/015 bit ex.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "76abd986000fdacc",
             "type": "leaf",
             "state": {
@@ -120,17 +91,15 @@
             }
           },
           {
-            "id": "e076ede99911f120",
+            "id": "88e07c30ea38f2e9",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "000/010/Programozas e.a/eloadasok/015 bit ex.md"
-              }
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           },
           {
-            "id": "830037c6f2bce03d",
+            "id": "f9c1d17a499f9d49",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -138,27 +107,58 @@
             }
           },
           {
-            "id": "e211dd7e4190f428",
+            "id": "18cf77c9eb87eb99",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "000/School/architektura/Hatszintu szamitogep felepitese.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ec6786f31fdaa49a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "000/School/architektura/Hatszintu szamitogep felepitese.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7e1d823f6d074b4e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "000/School/architektura/Hatszintu szamitogep felepitese.md"
+              }
+            }
+          },
+          {
+            "id": "87bb833d82e7e206",
             "type": "leaf",
             "state": {
               "type": "todo",
               "state": {}
             }
-          },
-          {
-            "id": "581b7fdbbf38ac0a",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 276.5,
+    "width": 299.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -180,47 +180,54 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "68e763424c954366",
+  "active": "c881978c1f856af7",
   "lastOpenFiles": [
-    "000/010/Programozas e.a/eloadasok/013 ifs and buts switch and ducks.md",
-    "000/010/Programozas e.a/eloadasok/011 C basics , input, output.md",
-    "000/010/Programozas e.a/eloadasok/012 memory storage.md",
-    "000/010/Programozas e.a/eloadasok/015 bit ex.md",
-    "000/010/Fizika/eloadasok/011 mertekegysegek.md",
-    "000/010/Fizika/eloadasok/012.md",
-    "000/010/Fizika/eloadasok/attachments/012 2023-10-05 10.00.50.excalidraw.md",
-    "000/010/Fizika/eloadasok/attachments",
-    "000/010/Programozas e.a/eloadasok/014 ciklusok.md",
-    "000/010/Programozas e.a/attachments/programozas_ciklusok.excalidraw.md",
-    "000/010/Programozas e.a/eloadasok/011 Programozas e.a ismertetes.md",
-    "000/010/Digitalis Elektronika/eloadasok/011.md",
-    "000/010/Tortenelem/eloadasok/011 elso eloadas kezdet.md",
-    "000/010/First semester.md",
+    "000/School/architektura/Bevezeto.md",
+    "000/School/architektura/Hatszintu szamitogep felepitese.md",
+    "000/School/TOTAL.md",
+    "000/School/DiszkretMatek/Starters.md",
+    "000/School/DiszkretMatek",
+    "000/School/OPrendszerek/unix feleipitese.md",
+    "000/School/OPrendszerek/UNIX Tortenelem.md",
+    "000/School/Digitalis Elektronika/eloadasok/FPGA basics.md",
+    "000/School/Digitalis Elektronika/Cpu.md",
+    "000/School/OPrendszerek",
+    "000/School/Digitalis Elektronika/eloadasok/MUX.md",
+    "000/School/Programing/CPP/Introduction.md",
+    "000/School/Digitalis Elektronika/eloadasok/4 bit Adder.md",
+    "000/School/Digitalis Elektronika/eloadasok/Alveletlen jel generator.md",
+    "attachments/Diagram.svg",
+    "000/School/Programing/CPP/tiobe.com.md",
+    "attachments/Diagram.svg.xml",
+    "attachments",
     "TODOS.md",
+    "000/School/Database/SQL.md",
+    "000/School/Database",
+    "000/School/attachments/Pasted image 20240923092620.png",
+    "000/School/Programing/CPP",
+    "000/School/attachments",
     "000/010/attachments/Pasted image 20231001193448.png",
     "000/010/attachments/Pasted image 20230927003248.png",
-    "000/010/Programozas e.a/subNotes/scanf.md",
-    "000/010/Programozas e.a/subNotes/read from file.md",
-    "000/010/Programozas e.a/subNotes/printf.md",
-    "templates/Default note template.md",
-    "000/010/Analizis/eloadasok/011.md",
-    "000/010/attachments",
-    "TodoSubNotes/fizika labor @{2023-10-03}.md",
-    "000/010/Programozas e.a/attachments/C_Nyelv_es_Programozas_kinyomtatva_Debrecen.pdf",
-    "Excalidraw/Drawing 2023-09-26 10.05.54.excalidraw.md",
-    "TodoSubNotes",
-    "Excalidraw/Drawing 2023-09-25 10.12.33.excalidraw.md",
-    "000/010/Analizis/eloadasok/attachments/Pasted image 20230925141305.png",
-    "000/010/Analizis/eloadasok/attachments",
-    "000/010/Programozas e.a/Untitled.md",
-    "000/010/Tortenelem/subNotes",
-    "000/010/Tortenelem/eloadasok",
-    "000/010/Tortenelem/attachments",
-    "000/010/Tortenelem",
-    "000/010/Digitalis Elektronika/subNotes",
-    "000/010/Fizika alapjai/Untitled.md",
-    "000/010/Fizika alapjai/Untitled Kanban.md",
-    "000/010/Fizika alapjai/Untitled 1.md",
-    "Untitled.canvas"
+    "IDeas.md",
+    "Untitled.canvas",
+    "000/School/architektura",
+    "000/School/Analog/Analog Vizsga Oszzefoglalo.md",
+    "000/School/Analog/dióda.md",
+    "000/School/Analog/Lineáris feszültségszabályzó (Stabilizatorok).md",
+    "000/School/Analog/Bipoláris tranzisztor.md",
+    "000/School/Analog/Kisfeszultsegu Erositok.md",
+    "000/School/Analog/Tervezerlesu tranzisztorok.md",
+    "000/School/Fizika/Fizika 2 feny Optika.md",
+    "000/School/Fizika/gyakorlat/Magneses ter I Jegyzet.md",
+    "000/School/Fizika/attachments/Pasted image 20240601174302.png",
+    "000/School/Fizika/attachments/Pasted image 20240601174211.png",
+    "000/School/Fizika/attachments/Pasted image 20240601174207.png",
+    "000/School/Fizika/attachments/Pasted image 20240601174112.png",
+    "000/School/Fizika/attachments/FenyFizika2Labor.pdf",
+    "000/010/Fizika/attachments/AFBA42F0",
+    "Excalidraw/Magneses Ter 2 Szamitasok.md",
+    "000/School/Fizika/gyakorlat/Magneses ter 2 Jegyzet.md",
+    "000/School/Fizika/gyakorlat/attachments/Pasted image 20240601171124.png",
+    "000/School/Fizika/gyakorlat/attachments/Pasted image 20240601171109.png"
   ]
 }

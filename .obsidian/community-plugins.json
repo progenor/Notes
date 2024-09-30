@@ -13,5 +13,8 @@
   "obsidian-annotator",
   "obsidian-textgenerator-plugin",
   "mathlive",
-  "highlightr-plugin"
+  "highlightr-plugin",
+  "obsidian-export-image",
+  "d2-obsidian",
+  "obsidian-diagrams-net"
 ]

@@ -21,8 +21,8 @@
     },
     "iconInTabsEnabled": false
   },
-  "000/010/Digitalis Elektronika": "TiRazorElectric",
-  "000/010/Analizis": "TiAnalyze",
-  "000/010/Algebra": "LiRuler",
-  "000/010/Fizika": "RiPsychotherapyLine"
+  "000/School/Algebra": "LiRuler",
+  "000/School/Analizis": "TiAnalyze",
+  "000/School/Fizika": "RiPsychotherapyLine",
+  "000/School/Digitalis Elektronika": "TiRazorElectric"
 }

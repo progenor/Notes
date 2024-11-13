@@ -4,53 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "186bf90329722e08",
+        "id": "e583674411e15caf",
         "type": "tabs",
         "children": [
           {
-            "id": "c3e76cb6c3857cdd",
+            "id": "0d701b147ca21867",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/architektura/Egy utasitas lefutasa.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Egy utasitas lefutasa"
-            }
-          },
-          {
-            "id": "470cd585768bc042",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/architektura/Utasitasok felepitesee.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Utasitasok felepitesee"
-            }
-          },
-          {
-            "id": "3dbb3f26b6f029c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/architektura/mikro utasitasok Instruction set.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "mikro utasitasok Instruction set"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -232,54 +199,54 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "3dbb3f26b6f029c3",
+  "active": "0d701b147ca21867",
   "lastOpenFiles": [
-    "School/architektura/Utasitasok felepitesee.md",
-    "School/architektura/attachments/Feladat1eloadas.md",
-    "School/architektura/mikro utasitasok Instruction set.md",
-    "School/architektura/Egy utasitas lefutasa.md",
-    "School/architektura/Utasitas Keszlet felepitese.md",
-    "School/architektura/Register Block.md",
-    "School/architektura/KCPSM6 Pico Blaze 6 architecture.md",
-    "School/architektura/Microarchitektura tombvazlat.md",
-    "School/architektura/DataMemory.md",
-    "School/architektura/CU - Control Unit.md",
-    "School/architektura/CPU tervezes.md",
-    "School/Database/Projekt.md",
-    "School/Database/YES.md",
-    "School/Database/TaborHF.md",
-    "School/Database/Sql Matek Alapok.md",
-    "School/Database/SQL.md",
-    "School/Database/Select more options.md",
-    "School/Database/Rendorseg.md",
-    "School/Database/Kolcson.svg",
-    "School/Database/JOIN.md",
-    "School/Database/Intresting shit.md",
-    "School/Database/Feladatok.md",
-    "School/Database/Database diagram.md",
-    "School/Database/Ceg Feladat.md",
-    "School/architektura/attachments/KCPSM6_User_Guide.pdf",
-    "School/architektura/attachments/mikro tombvazlat.md",
-    "Untitled 2.md",
-    "School/architektura/KCPSM3 Pico Blaze 3 archit.md",
-    "School/architektura/attachments/Pasted image 20241023165258.png",
-    "School/Database/attachments/tabor.excalidraw",
-    "School/Database/attachments/taborAdatbazisHF.png",
-    "School/Database/attachments/taborAdatbazisHF",
-    "School/Database/attachments",
-    "School/architektura/attachments/Pasted image 20241009164625.png",
-    "School/architektura/attachments/Pasted image 20241007093735.png",
-    "School/architektura/attachments/Pasted image 20241007093349.png",
-    "School/architektura/attachments/Pasted image 20241007093402.png",
-    "School/architektura/attachments/Pasted image 20241007092909.png",
-    "School/architektura/attachments/attachments/image.png",
-    "School/architektura/attachments/attachments",
-    "School/architektura/attachments/Pasted image 20241007091524.png",
-    "School/architektura/attachments",
     "School/Tortenelem/eloadasok/attachments/KulturToriExtended.pdf",
     "School/Tortenelem/eloadasok/attachments/kulturtori.pdf",
-    "School/Fizika/gyakorlat/attachments/RLC.xlsx",
-    "School/Fizika/gyakorlat/attachments/RCaramkor.xlsx",
-    "Untitled.canvas"
+    "School/Tortenelem/eloadasok/I Nagy Lajos.md",
+    "School/Tortenelem/eloadasok/Luxemburgi Zsigmond.md",
+    "School/Tortenelem/eloadasok/Kultur Tori 2.md",
+    "School/Tortenelem/eloadasok/Hunyadi Matyas.md",
+    "School/Tortenelem/eloadasok/attachments",
+    "School/Tortenelem/eloadasok/011 elso eloadas kezdet.md",
+    "School/Tortenelem/eloadasok",
+    "School/Digitalis Elektronika/attachments/NEXIS7AMasterXDC.txt",
+    "School/Digitalis Elektronika/attachments/boolAlgebraTetelek.pdf",
+    "School/Digitalis Elektronika/attachments",
+    "mi.md",
+    "attachments/Diagram 2.svg.xml",
+    "attachments/Diagram 2.svg",
+    "attachments/Diagram 1.svg.xml",
+    "attachments/Diagram 1.svg",
+    "Untitled.md",
+    "Untitled.canvas",
+    "Untitled Diagram.svg",
+    "Untitled Diagram 1.svg",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "School/attachments/Pasted image 20240923092620.png",
+    "School/attachments",
+    "School/architektura/attachments/attachments/image.png",
+    "School/architektura/attachments/Untitled.md",
+    "School/architektura/attachments/SimulationVHDL.md",
+    "School/architektura/attachments/Pasted image 20241023165258.png",
+    "School/architektura/attachments/Pasted image 20241009164625.png",
+    "School/architektura/attachments/Pasted image 20241007093735.png",
+    "School/architektura/attachments/Pasted image 20241007093402.png",
+    "School/architektura/attachments/mikro tombvazlat.md",
+    "School/architektura/attachments/KCPSM6_User_Guide.pdf",
+    "School/architektura/attachments/DataMemory 2024-10-23 16.52.14.excalidraw.md",
+    "School/architektura/attachments/IFDEC.md",
+    "School/architektura/attachments/Feladat1eloadas.md",
+    "School/architektura/attachments/annotated_Pasted image 20241007093349.md",
+    "School/architektura/attachments/annotated_KCPSM6.md",
+    "School/architektura/Utasitasok felepitesee.md",
+    "School/architektura/Utasitas Keszlet felepitese.md",
+    "School/architektura/Register Block.md",
+    "School/architektura/mikro utasitasok Instruction set.md",
+    "School/architektura/Microarchitektura tombvazlat.md",
+    "School/architektura/KCPSM6 Pico Blaze 6 architecture.md",
+    "School/architektura/KCPSM3 Pico Blaze 3 archit.md",
+    "School/architektura/IFDEC.md"
   ]
 }

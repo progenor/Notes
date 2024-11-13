@@ -46,7 +46,7 @@
 
 
 
-# Data Memory
+# Scratch Pad Memory
 ## Store
 ```vhdl
 STORE Sx,(Sy)
@@ -56,7 +56,18 @@ STORE Sx,(Sy)
 2. `RW = '0'`
 3. `MWr='1'`
 4. `MWr='0'`
-
+## Fetch sX, sa
+0. Instruction Fetch
+1. Dekódolás, MUXSel = "000", Sel_Addr = '1'
+2. RW = '0'
+3. MRd = '1'
+4. MRd = '0'
+## Fetch sX, (sY)
+0. Instruction Fetch
+1. Dekódolás, MUXSel = "000", Sel_Addr = '0'
+2. RW = '0'
+3. MRd = '1'
+4. MRd = '0'
 # Arithmetic
 ## ADD
 ```VHDL

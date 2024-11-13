@@ -4,22 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "3323064d0213cff9",
+        "id": "186bf90329722e08",
         "type": "tabs",
         "children": [
           {
-            "id": "c881978c1f856af7",
+            "id": "c3e76cb6c3857cdd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000/School/architektura/Hatszintu szamitogep felepitese.md",
+                "file": "School/architektura/Egy utasitas lefutasa.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Egy utasitas lefutasa"
+            }
+          },
+          {
+            "id": "470cd585768bc042",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/architektura/Utasitasok felepitesee.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Utasitasok felepitesee"
+            }
+          },
+          {
+            "id": "3dbb3f26b6f029c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/architektura/mikro utasitasok Instruction set.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "mikro utasitasok Instruction set"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -33,16 +64,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b1338258ff36d528",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "byCreatedTimeReverse"
-              }
-            }
-          },
-          {
             "id": "2580741eb0c2e35e",
             "type": "leaf",
             "state": {
@@ -54,7 +75,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,10 +85,25 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "bf64c69ec81aca43",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -87,7 +125,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -95,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -103,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -112,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000/School/architektura/Hatszintu szamitogep felepitese.md",
+                "file": "School/architektura/DataMemory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +164,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for DataMemory"
             }
           },
           {
@@ -129,10 +175,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000/School/architektura/Hatszintu szamitogep felepitese.md",
+                "file": "School/architektura/DataMemory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from DataMemory"
             }
           },
           {
@@ -141,8 +189,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000/School/architektura/Hatszintu szamitogep felepitese.md"
-              }
+                "file": "School/architektura/DataMemory.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of DataMemory"
             }
           },
           {
@@ -150,11 +200,13 @@
             "type": "leaf",
             "state": {
               "type": "todo",
-              "state": {}
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -180,54 +232,54 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "c881978c1f856af7",
+  "active": "3dbb3f26b6f029c3",
   "lastOpenFiles": [
-    "000/School/architektura/Bevezeto.md",
-    "000/School/architektura/Hatszintu szamitogep felepitese.md",
-    "000/School/TOTAL.md",
-    "000/School/DiszkretMatek/Starters.md",
-    "000/School/DiszkretMatek",
-    "000/School/OPrendszerek/unix feleipitese.md",
-    "000/School/OPrendszerek/UNIX Tortenelem.md",
-    "000/School/Digitalis Elektronika/eloadasok/FPGA basics.md",
-    "000/School/Digitalis Elektronika/Cpu.md",
-    "000/School/OPrendszerek",
-    "000/School/Digitalis Elektronika/eloadasok/MUX.md",
-    "000/School/Programing/CPP/Introduction.md",
-    "000/School/Digitalis Elektronika/eloadasok/4 bit Adder.md",
-    "000/School/Digitalis Elektronika/eloadasok/Alveletlen jel generator.md",
-    "attachments/Diagram.svg",
-    "000/School/Programing/CPP/tiobe.com.md",
-    "attachments/Diagram.svg.xml",
-    "attachments",
-    "TODOS.md",
-    "000/School/Database/SQL.md",
-    "000/School/Database",
-    "000/School/attachments/Pasted image 20240923092620.png",
-    "000/School/Programing/CPP",
-    "000/School/attachments",
-    "000/010/attachments/Pasted image 20231001193448.png",
-    "000/010/attachments/Pasted image 20230927003248.png",
-    "IDeas.md",
-    "Untitled.canvas",
-    "000/School/architektura",
-    "000/School/Analog/Analog Vizsga Oszzefoglalo.md",
-    "000/School/Analog/dióda.md",
-    "000/School/Analog/Lineáris feszültségszabályzó (Stabilizatorok).md",
-    "000/School/Analog/Bipoláris tranzisztor.md",
-    "000/School/Analog/Kisfeszultsegu Erositok.md",
-    "000/School/Analog/Tervezerlesu tranzisztorok.md",
-    "000/School/Fizika/Fizika 2 feny Optika.md",
-    "000/School/Fizika/gyakorlat/Magneses ter I Jegyzet.md",
-    "000/School/Fizika/attachments/Pasted image 20240601174302.png",
-    "000/School/Fizika/attachments/Pasted image 20240601174211.png",
-    "000/School/Fizika/attachments/Pasted image 20240601174207.png",
-    "000/School/Fizika/attachments/Pasted image 20240601174112.png",
-    "000/School/Fizika/attachments/FenyFizika2Labor.pdf",
-    "000/010/Fizika/attachments/AFBA42F0",
-    "Excalidraw/Magneses Ter 2 Szamitasok.md",
-    "000/School/Fizika/gyakorlat/Magneses ter 2 Jegyzet.md",
-    "000/School/Fizika/gyakorlat/attachments/Pasted image 20240601171124.png",
-    "000/School/Fizika/gyakorlat/attachments/Pasted image 20240601171109.png"
+    "School/architektura/Utasitasok felepitesee.md",
+    "School/architektura/attachments/Feladat1eloadas.md",
+    "School/architektura/mikro utasitasok Instruction set.md",
+    "School/architektura/Egy utasitas lefutasa.md",
+    "School/architektura/Utasitas Keszlet felepitese.md",
+    "School/architektura/Register Block.md",
+    "School/architektura/KCPSM6 Pico Blaze 6 architecture.md",
+    "School/architektura/Microarchitektura tombvazlat.md",
+    "School/architektura/DataMemory.md",
+    "School/architektura/CU - Control Unit.md",
+    "School/architektura/CPU tervezes.md",
+    "School/Database/Projekt.md",
+    "School/Database/YES.md",
+    "School/Database/TaborHF.md",
+    "School/Database/Sql Matek Alapok.md",
+    "School/Database/SQL.md",
+    "School/Database/Select more options.md",
+    "School/Database/Rendorseg.md",
+    "School/Database/Kolcson.svg",
+    "School/Database/JOIN.md",
+    "School/Database/Intresting shit.md",
+    "School/Database/Feladatok.md",
+    "School/Database/Database diagram.md",
+    "School/Database/Ceg Feladat.md",
+    "School/architektura/attachments/KCPSM6_User_Guide.pdf",
+    "School/architektura/attachments/mikro tombvazlat.md",
+    "Untitled 2.md",
+    "School/architektura/KCPSM3 Pico Blaze 3 archit.md",
+    "School/architektura/attachments/Pasted image 20241023165258.png",
+    "School/Database/attachments/tabor.excalidraw",
+    "School/Database/attachments/taborAdatbazisHF.png",
+    "School/Database/attachments/taborAdatbazisHF",
+    "School/Database/attachments",
+    "School/architektura/attachments/Pasted image 20241009164625.png",
+    "School/architektura/attachments/Pasted image 20241007093735.png",
+    "School/architektura/attachments/Pasted image 20241007093349.png",
+    "School/architektura/attachments/Pasted image 20241007093402.png",
+    "School/architektura/attachments/Pasted image 20241007092909.png",
+    "School/architektura/attachments/attachments/image.png",
+    "School/architektura/attachments/attachments",
+    "School/architektura/attachments/Pasted image 20241007091524.png",
+    "School/architektura/attachments",
+    "School/Tortenelem/eloadasok/attachments/KulturToriExtended.pdf",
+    "School/Tortenelem/eloadasok/attachments/kulturtori.pdf",
+    "School/Fizika/gyakorlat/attachments/RLC.xlsx",
+    "School/Fizika/gyakorlat/attachments/RCaramkor.xlsx",
+    "Untitled.canvas"
   ]
 }

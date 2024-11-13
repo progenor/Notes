@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e583674411e15caf",
+        "id": "bb03fb54164c0fbb",
         "type": "tabs",
         "children": [
           {
-            "id": "0d701b147ca21867",
+            "id": "cef6102c38f5b73b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "School/architektura/mikro utasitasok Instruction set.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "mikro utasitasok Instruction set"
             }
           }
         ]
@@ -199,7 +203,7 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "0d701b147ca21867",
+  "active": "cef6102c38f5b73b",
   "lastOpenFiles": [
     "School/Tortenelem/eloadasok/attachments/KulturToriExtended.pdf",
     "School/Tortenelem/eloadasok/attachments/kulturtori.pdf",

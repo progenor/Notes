@@ -1,0 +1,1 @@
+![[A CPU osszeepitese strukturalis VHDL-ben 2024-11-13 17.11.02.excalidraw]]

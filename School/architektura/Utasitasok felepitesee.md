@@ -13,10 +13,10 @@
 	- meghatjuk az *OP2* ot
 	- eredmeny bekerul megint a mikorba
 	
-	![[attachments/Diagram 2.svg]]
+![[attachments/Diagram 2.svg]]
 ---
 	
-	![[ISA_UT_felepitese.excalidraw]]
+![[ISA_UT_felepitese.excalidraw]]
 ---
 [Labkorkonyv 24 oldal](https://drive.google.com/file/d/13KYv2GCZAcsyLOIwHq6c0Z3VSHJarr7h/view)
 

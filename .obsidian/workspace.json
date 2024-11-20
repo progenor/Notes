@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "98f08ebc8275498b",
+        "id": "97e8b5e832afac76",
         "type": "tabs",
         "children": [
           {
-            "id": "387397c2954e9b17",
+            "id": "7764d0690a0a08d3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "School/OPrendszerek/Eloadas 8 jegyzet Szoveg Kereses.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Eloadas 8 jegyzet Szoveg Kereses"
             }
           }
         ]
@@ -199,8 +203,18 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "387397c2954e9b17",
+  "active": "7764d0690a0a08d3",
   "lastOpenFiles": [
+    "School/OPrendszerek/attachments/Pasted image 20241120102916.png",
+    "School/OPrendszerek/attachments/Pasted image 20241120102812.png",
+    "School/OPrendszerek/attachments/Pasted image 20241120102710.png",
+    "School/OPrendszerek/attachments/Pasted image 20241120102545.png",
+    "School/OPrendszerek/attachments/Pasted image 20241120102513.png",
+    "School/OPrendszerek/attachments/Pasted image 20241120102500.png",
+    "School/OPrendszerek/attachments/Pasted image 20241120102428.png",
+    "School/OPrendszerek/attachments",
+    "School/OPrendszerek/Eloadas 8 jegyzet Szoveg Kereses.md",
+    "School/Database/JSON.md",
     "School/architektura/Utasitasok felepitesee.md",
     "School/architektura/Vezerloegyseg.md",
     "School/architektura/A CPU osszeepitese strukturalis VHDL-ben.md",
@@ -228,25 +242,15 @@
     "Untitled.md",
     "Untitled.canvas",
     "Untitled Diagram.svg",
-    "Untitled Diagram 1.svg",
     "Untitled 2.md",
     "Untitled 1.md",
-    "School/attachments/Pasted image 20240923092620.png",
-    "School/attachments",
-    "School/architektura/attachments/attachments/image.png",
     "School/architektura/attachments/Untitled.md",
     "School/architektura/attachments/SimulationVHDL.md",
-    "School/architektura/attachments/Pasted image 20241023165258.png",
-    "School/architektura/attachments/Pasted image 20241009164625.png",
-    "School/architektura/attachments/Pasted image 20241007093735.png",
     "School/architektura/attachments/mikro tombvazlat.md",
     "School/architektura/attachments/DataMemory 2024-10-23 16.52.14.excalidraw.md",
     "School/architektura/attachments/IFDEC.md",
     "School/architektura/attachments/Feladat1eloadas.md",
     "School/architektura/attachments/annotated_Pasted image 20241007093349.md",
-    "School/architektura/attachments/annotated_KCPSM6.md",
-    "School/architektura/Utasitas Keszlet felepitese.md",
-    "School/architektura/Register Block.md",
-    "School/architektura/Microarchitektura tombvazlat.md"
+    "School/architektura/attachments/annotated_KCPSM6.md"
   ]
 }

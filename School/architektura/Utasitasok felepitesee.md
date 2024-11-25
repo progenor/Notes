@@ -16,7 +16,7 @@
 ![[attachments/Diagram 2.svg]]
 ---
 	
-![[ISA_UT_felepitese.excalidraw]]
+![[ISA_UT_felepitese.excalidraw|100%]]
 ---
 [Labkorkonyv 24 oldal](https://drive.google.com/file/d/13KYv2GCZAcsyLOIwHq6c0Z3VSHJarr7h/view)
 
@@ -33,7 +33,7 @@
 - Ugras cim (11:0) 12 bit -> 4k utasitas a program memoriaban
 - INT : interrupt enable 
 
-![[example]]
+![[example|100%]]
 
 ## Examples
 ![[KCPSM6 Pico Blaze 6 architecture]]

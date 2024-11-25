@@ -1,4 +1,4 @@
-![[Register Blcock]]
+![[Register Blcock|100%]]
 
 ```pseudo
 Ha Clk le:
@@ -27,7 +27,7 @@ end process;
 ```
 
 # Testing
-![[SimulationVHDL]]
+![[SimulationVHDL|100%]]
 ## Example 
 ```vhdl
 LIBRARY ieee;

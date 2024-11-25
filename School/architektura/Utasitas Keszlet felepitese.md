@@ -1,5 +1,5 @@
 
-![[mikro tombvazlat]]
+![[mikro tombvazlat|100%]]
 #laborkonyv_architektura
 [Laborkonyv 23](https://drive.google.com/file/d/13KYv2GCZAcsyLOIwHq6c0Z3VSHJarr7h/view?usp=sharing)
 

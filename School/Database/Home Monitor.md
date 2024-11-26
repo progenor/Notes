@@ -3,6 +3,10 @@
 Erdekes kicsi eszkoz ami felmeri a szoba tulajdonsagait es az ember szokasait.
 Mukodhet szoba vedelemkent is vagy egyfajta hazi rendszer.
 # GUI
+
+>[!info]  
+>nem kotelezo lehet web app
+
 Vagy egy WEBAPP
 - barhonnan elerheto, gep, telefon
 AndroidApp

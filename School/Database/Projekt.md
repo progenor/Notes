@@ -5,4 +5,4 @@
 - normalis adarok/ generalt adatok **?? for my project**
 
 
-[[Home Monitor]]
+![[Home Monitor]]

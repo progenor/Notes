@@ -11,7 +11,7 @@ Amit szabad hasznalni
 - nem tudom ha lehet e mast vagy ez kotelezo
 # Tablak
 
-1.  DeviceState
+1.  Device
 	1. device id
 	2. device name
 	3. current_state -- on or off
@@ -19,7 +19,7 @@ Amit szabad hasznalni
 	4. changed_states -- json
 	   (dateTime : state)
 	   prev != current
-2. Sensor data
+2. Sensor data (actual readings)
 	1. temp
 	2. humidity
 	3. light
@@ -90,4 +90,4 @@ Amit szabad hasznalni
 	5. device id
 
 
-![[ProjektHomeMonitor.excalidraw]]
+![[ProjektHomeMonitor.excalidraw|100%]]

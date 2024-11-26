@@ -4,48 +4,51 @@
     "type": "split",
     "children": [
       {
-        "id": "28c5bcd9525fcea4",
+        "id": "19902010ff660362",
         "type": "tabs",
         "children": [
           {
-            "id": "d379a38e3cd8cf3f",
+            "id": "1efd96d96b60aa98",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/architektura/Memoriak Memories.md",
+                "file": "School/Database/Projekt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Memoriak Memories"
+              "title": "Projekt"
             }
           },
           {
-            "id": "c2e7b5201f8d4b34",
+            "id": "3252bc73ec6fecb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/Database/Home Monitor.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Home Monitor"
+            }
+          },
+          {
+            "id": "bce8213afb93993d",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "School/architektura/attachments/Memoriak Memories 2024-11-25 09.29.25.excalidraw.md"
+                "file": "School/Database/attachments/ProjektHomeMonitor.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Memoriak Memories 2024-11-25 09.29.25.excalidraw"
-            }
-          },
-          {
-            "id": "b35cb803d6d225d5",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "School/architektura/attachments/Memoriak Memories 2024-11-25 09.14.09.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Memoriak Memories 2024-11-25 09.14.09.excalidraw"
+              "title": "ProjektHomeMonitor.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "fbb5ed34af40dcdc",
@@ -228,10 +230,15 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "d379a38e3cd8cf3f",
+  "active": "3252bc73ec6fecb3",
   "lastOpenFiles": [
-    "School/architektura/attachments/Memoriak Memories 2024-11-25 09.29.25.excalidraw.md",
+    "School/Database/attachments/ProjektHomeMonitor.excalidraw.md",
+    "School/Database/Home Monitor.md",
+    "School/Database/Projekt.md",
+    "School/Database/Insert Statements.md",
+    "School/Database/Regex.md",
     "School/architektura/attachments/Memoriak Memories 2024-11-25 09.14.09.excalidraw.md",
+    "School/architektura/attachments/Memoriak Memories 2024-11-25 09.29.25.excalidraw.md",
     "School/architektura/Memoriak Memories.md",
     "School/architektura/Vezerloegyseg.md",
     "School/architektura/Utasitasok felepitesee.md",
@@ -259,14 +266,9 @@
     "School/OPrendszerek/attachments/Pasted image 20241120102428.png",
     "School/OPrendszerek/attachments",
     "School/Database/JSON.md",
-    "School/architektura/A CPU osszeepitese strukturalis VHDL-ben.md",
-    "School/architektura/attachments/A CPU osszeepitese strukturalis VHDL-ben 2024-11-13 17.11.02.excalidraw.md",
-    "School/architektura/attachments/Vezerloegyseg 2024-11-13 16.58.26.excalidraw.md",
     "School/architektura/attachments/attachments/image_0.png",
     "School/Tortenelem/eloadasok/attachments/KulturToriExtended.pdf",
     "School/Tortenelem/eloadasok/attachments/kulturtori.pdf",
-    "School/Tortenelem/eloadasok/I Nagy Lajos.md",
-    "School/Tortenelem/eloadasok/Luxemburgi Zsigmond.md",
     "School/Tortenelem/eloadasok/attachments",
     "School/Tortenelem/eloadasok",
     "School/Digitalis Elektronika/attachments/NEXIS7AMasterXDC.txt",

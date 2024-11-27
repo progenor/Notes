@@ -4,36 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "19902010ff660362",
+        "id": "30a44dc16f3e00cd",
         "type": "tabs",
         "children": [
           {
-            "id": "3252bc73ec6fecb3",
+            "id": "9bf29efa62767b8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Database/Home Monitor.md",
+                "file": "School/Programing/CPP/Templates.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home Monitor"
+              "title": "Templates"
             }
           },
           {
-            "id": "bce8213afb93993d",
+            "id": "81ac2e50636bbff6",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "School/Database/attachments/ProjektHomeMonitor.excalidraw.md"
+                "file": "School/Programing/CPP/Auto.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "ProjektHomeMonitor.excalidraw"
+              "icon": "lucide-file",
+              "title": "Auto"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,8 +122,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -129,8 +132,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -184,12 +187,22 @@
             "state": {
               "type": "todo",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "1bf93480c1ee90c6",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
               "icon": "checkmark",
               "title": "Todo List"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -215,9 +228,22 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "3252bc73ec6fecb3",
+  "active": "81ac2e50636bbff6",
   "lastOpenFiles": [
+    "School/Programing/CPP/Templates.md",
+    "School/Programing/CPP/Auto.md",
     "School/Database/attachments/ProjektHomeMonitor.excalidraw.md",
+    "attachments/Diagram 1.svg",
+    "Robotics",
+    "attachments/Diagram.svg",
+    "TODOS.md",
+    "mi.md",
+    "Untitled.canvas",
+    "Untitled Diagram.svg",
+    "Untitled Diagram 1.svg",
+    "Untitled 2.md",
+    "Untitled.md",
+    "Untitled 1.md",
     "School/Database/Home Monitor.md",
     "School/Database/Projekt.md",
     "School/Database/Insert Statements.md",
@@ -236,22 +262,13 @@
     "School/architektura/Evbeosztas.md",
     "School/architektura/Hatszintu szamitogep felepitese.md",
     "School/architektura/Bevezeto Architektura.md",
-    "School/architektura/CPU tervezes.md",
-    "School/architektura/DataMemory.md",
-    "School/architektura/attachments/DualPortMemories.excalidraw.md",
-    "TODOS.md",
-    "School/OPrendszerek/Eloadas 8 jegyzet Szoveg Kereses.md",
-    "School/OPrendszerek/Opciok kezelese.md",
     "School/OPrendszerek/attachments/Pasted image 20241120102916.png",
     "School/OPrendszerek/attachments/Pasted image 20241120102812.png",
     "School/OPrendszerek/attachments/Pasted image 20241120102710.png",
     "School/OPrendszerek/attachments/Pasted image 20241120102545.png",
     "School/OPrendszerek/attachments/Pasted image 20241120102513.png",
     "School/OPrendszerek/attachments/Pasted image 20241120102500.png",
-    "School/OPrendszerek/attachments/Pasted image 20241120102428.png",
     "School/OPrendszerek/attachments",
-    "School/Database/JSON.md",
-    "School/architektura/attachments/attachments/image_0.png",
     "School/Tortenelem/eloadasok/attachments/KulturToriExtended.pdf",
     "School/Tortenelem/eloadasok/attachments/kulturtori.pdf",
     "School/Tortenelem/eloadasok/attachments",
@@ -259,10 +276,6 @@
     "School/Digitalis Elektronika/attachments/NEXIS7AMasterXDC.txt",
     "School/Digitalis Elektronika/attachments/boolAlgebraTetelek.pdf",
     "School/Digitalis Elektronika/attachments",
-    "attachments/Diagram 2.svg.xml",
-    "attachments/Diagram 2.svg",
-    "attachments/Diagram 1.svg.xml",
-    "attachments/Diagram 1.svg",
-    "Untitled.canvas"
+    "attachments/Diagram 2.svg.xml"
   ]
 }

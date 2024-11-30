@@ -1,0 +1,5 @@
+- `&` futtatni a hatterben
+	- megmarad a standard kimenetre iras
+	- meg lehet irni attol fuggetlen
+- `jobs` jelenelegi futo munkag
+- `fg` `bg`  vinni a jobokat

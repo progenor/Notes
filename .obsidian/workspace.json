@@ -11,10 +11,14 @@
             "id": "05010a917e7627f3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -181,14 +185,23 @@
               "icon": "checkmark",
               "title": "Todo List"
             }
+          },
+          {
+            "id": "0375055409b9fe09",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 299.5,
-    "collapsed": true
+    "width": 299.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,6 +224,17 @@
   },
   "active": "05010a917e7627f3",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "attachments/Untitled 2024-11-28 15.14.29.excalidraw.md",
+    "School/Tortenelem/eloadasok/Onkenyuralom.md",
+    "School/Programing/CPP/Templates.md",
+    "School/Programing/CPP/Auto.md",
+    "School/OPrendszerek/Sed.md",
+    "School/OPrendszerek/Futatatasok.md",
+    "Robotics/Components and money.canvas",
+    "Robotics/ArenaRobot movement for sensors.md",
+    "Robotics/Alkatreszek.md",
+    "Robotics",
     "School/Database/attachments/ProjektHomeMonitor.excalidraw.md",
     "Untitled 2.md",
     "Untitled 1.md",
@@ -229,15 +253,6 @@
     "School/architektura/Utasitasok felepitesee.md",
     "School/architektura/Utasitas Keszlet felepitese.md",
     "School/architektura/Register Block.md",
-    "School/architektura/mikro utasitasok Instruction set.md",
-    "School/architektura/Microarchitektura tombvazlat.md",
-    "School/architektura/KCPSM6 Pico Blaze 6 architecture.md",
-    "School/architektura/KCPSM3 Pico Blaze 3 archit.md",
-    "School/architektura/Evbeosztas.md",
-    "School/architektura/Hatszintu szamitogep felepitese.md",
-    "School/architektura/Bevezeto Architektura.md",
-    "School/architektura/CPU tervezes.md",
-    "School/architektura/DataMemory.md",
     "School/OPrendszerek/attachments/Pasted image 20241120102916.png",
     "School/OPrendszerek/attachments/Pasted image 20241120102812.png",
     "School/OPrendszerek/attachments/Pasted image 20241120102710.png",
@@ -256,7 +271,6 @@
     "School/Digitalis Elektronika/attachments",
     "attachments/Diagram 2.svg.xml",
     "attachments/Diagram 2.svg",
-    "attachments/Diagram 1.svg.xml",
     "attachments/Diagram 1.svg"
   ]
 }

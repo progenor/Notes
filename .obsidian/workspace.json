@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a2ede6c63498222a",
+        "id": "7222c974f2545779",
         "type": "tabs",
         "children": [
           {
-            "id": "05010a917e7627f3",
+            "id": "aa6e0566ee85bf2f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": true
+                "file": "School/architektura/attachments/FeladatCimzestartomany.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "icon": "excalidraw-icon",
+              "title": "FeladatCimzestartomany.excalidraw"
             }
           }
         ]
@@ -40,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "input",
+                "query": "tag:#Hardward",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "fbb5ed34af40dcdc",
@@ -127,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/architektura/DataMemory.md",
+                "file": "School/architektura/attachments/FeladatCimzestartomany.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +136,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for DataMemory"
+              "title": "Backlinks for FeladatCimzestartomany.excalidraw"
             }
           },
           {
@@ -146,12 +145,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/architektura/DataMemory.md",
+                "file": "School/architektura/attachments/FeladatCimzestartomany.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from DataMemory"
+              "title": "Outgoing links from FeladatCimzestartomany.excalidraw"
             }
           },
           {
@@ -160,20 +159,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/architektura/DataMemory.md"
+                "file": "School/architektura/attachments/FeladatCimzestartomany.excalidraw.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of DataMemory"
-            }
-          },
-          {
-            "id": "87bb833d82e7e206",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "title": "Outline of FeladatCimzestartomany.excalidraw"
             }
           },
           {
@@ -197,11 +186,12 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 299.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,37 +212,37 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "05010a917e7627f3",
+  "active": "aa6e0566ee85bf2f",
   "lastOpenFiles": [
+    "School/architektura/attachments/Memoriak Memories 2024-11-25 09.29.25.excalidraw.md",
+    "School/architektura/attachments/FeladatCimzestartomany.excalidraw.md",
+    "School/architektura/Memoriak Memories.md",
+    "School/architektura/Virtualis Memoria Virtual Memory.md",
+    "School/architektura/Feladat.md",
+    "Untitled.md",
+    "School/architektura/attachments/Feladat1eloadas.md",
+    "School/architektura/Cimforditas.md",
+    "School/architektura/Utasitasok felepitesee.md",
+    "School/architektura/attachments/Virtualis Memoria Virtual Memory 2024-12-02 08.42.16.excalidraw.md",
+    "School/architektura/attachments/Virtualis Memoria Virtual Memory 2024-12-02 08.28.10.excalidraw.md",
+    "School/architektura/Bevezeto Architektura.md",
+    "School/architektura/Egy utasitas lefutasa.md",
+    "School/architektura/Evbeosztas.md",
+    "School/architektura/CPU tervezes.md",
+    "School/architektura/Hatszintu szamitogep felepitese.md",
+    "School/architektura/A CPU VHDL megvalositasa.md",
+    "School/architektura/A CPU osszeepitese strukturalis VHDL-ben.md",
+    "School/architektura/ALU - Arithmetical Logical Unit.md",
+    "School/architektura/DataMemory.md",
+    "School/Database/Home Monitor.md",
+    "School/Database/attachments/ProjektHomeMonitor.excalidraw.md",
+    "School/Database/Projekt.md",
     "conflict-files-obsidian-git.md",
     "attachments/Untitled 2024-11-28 15.14.29.excalidraw.md",
     "School/Tortenelem/eloadasok/Onkenyuralom.md",
-    "School/Programing/CPP/Templates.md",
-    "School/Programing/CPP/Auto.md",
-    "School/OPrendszerek/Sed.md",
-    "School/OPrendszerek/Futatatasok.md",
     "Robotics/Components and money.canvas",
-    "Robotics/ArenaRobot movement for sensors.md",
-    "Robotics/Alkatreszek.md",
     "Robotics",
-    "School/Database/attachments/ProjektHomeMonitor.excalidraw.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
-    "Untitled.md",
     "Untitled.canvas",
-    "TODOS.md",
-    "mi.md",
-    "School/Database/Home Monitor.md",
-    "School/Database/Projekt.md",
-    "School/Database/Insert Statements.md",
-    "School/Database/Regex.md",
-    "School/architektura/attachments/Memoriak Memories 2024-11-25 09.14.09.excalidraw.md",
-    "School/architektura/attachments/Memoriak Memories 2024-11-25 09.29.25.excalidraw.md",
-    "School/architektura/Memoriak Memories.md",
-    "School/architektura/Vezerloegyseg.md",
-    "School/architektura/Utasitasok felepitesee.md",
-    "School/architektura/Utasitas Keszlet felepitese.md",
-    "School/architektura/Register Block.md",
     "School/OPrendszerek/attachments/Pasted image 20241120102916.png",
     "School/OPrendszerek/attachments/Pasted image 20241120102812.png",
     "School/OPrendszerek/attachments/Pasted image 20241120102710.png",

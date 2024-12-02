@@ -1,0 +1,1 @@
+![[FeladatCimzestartomany.excalidraw]]

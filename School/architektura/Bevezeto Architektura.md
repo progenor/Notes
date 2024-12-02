@@ -14,9 +14,9 @@ cssclasses:
 [labrokonyv](https://drive.google.com/file/d/13KYv2GCZAcsyLOIwHq6c0Z3VSHJarr7h/view)
 # Kezdet
 - cpu tar es io osszekkotesi modjai
-- ==Neumann elv== 
+- #Neumann elv 
 	- 1 memoria 1 csat
-- ==Harvard== achitektura
+- #Harvard achitektura
 	- 2 memoria 1:1 csat
 	- 1 memoria 2 csat (Harvard modositoot)
 

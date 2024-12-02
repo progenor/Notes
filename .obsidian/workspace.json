@@ -4,6 +4,7 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "17bac65a8bcef78c",
         "type": "tabs",
         "children": [
@@ -23,14 +24,21 @@
           },
           {
             "id": "96153038ad9f877f",
+=======
+        "id": "7222c974f2545779",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa6e0566ee85bf2f",
+>>>>>>> c4a1e279dfba413edf366600eeea35c51b5ecda4
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "School/Database/attachments/ProjektHomeMonitor.excalidraw.md"
+                "file": "School/architektura/attachments/FeladatCimzestartomany.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "ProjektHomeMonitor.excalidraw"
+              "title": "FeladatCimzestartomany.excalidraw"
             }
           }
         ]
@@ -52,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "input",
+                "query": "tag:#Hardward",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -120,8 +128,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -130,8 +138,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -140,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/architektura/DataMemory.md",
+                "file": "School/architektura/attachments/FeladatCimzestartomany.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +158,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for DataMemory"
+              "title": "Backlinks for FeladatCimzestartomany.excalidraw"
             }
           },
           {
@@ -159,12 +167,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/architektura/DataMemory.md",
+                "file": "School/architektura/attachments/FeladatCimzestartomany.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from DataMemory"
+              "title": "Outgoing links from FeladatCimzestartomany.excalidraw"
             }
           },
           {
@@ -173,20 +181,30 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/architektura/DataMemory.md"
+                "file": "School/architektura/attachments/FeladatCimzestartomany.excalidraw.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of DataMemory"
+              "title": "Outline of FeladatCimzestartomany.excalidraw"
             }
           },
           {
-            "id": "87bb833d82e7e206",
+            "id": "6979ffadf38325f9",
             "type": "leaf",
             "state": {
               "type": "todo",
               "state": {},
               "icon": "checkmark",
               "title": "Todo List"
+            }
+          },
+          {
+            "id": "0375055409b9fe09",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -216,6 +234,7 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
+<<<<<<< HEAD
   "active": "18a2c3b179b9e7b4",
   "lastOpenFiles": [
     "School/Database/Home monitor Create functions.md",
@@ -248,6 +267,39 @@
     "School/architektura/Vezerloegyseg.md",
     "School/architektura/Utasitasok felepitesee.md",
     "School/architektura/Utasitas Keszlet felepitese.md",
+=======
+  "active": "aa6e0566ee85bf2f",
+  "lastOpenFiles": [
+    "School/architektura/attachments/Memoriak Memories 2024-11-25 09.29.25.excalidraw.md",
+    "School/architektura/attachments/FeladatCimzestartomany.excalidraw.md",
+    "School/architektura/Memoriak Memories.md",
+    "School/architektura/Virtualis Memoria Virtual Memory.md",
+    "School/architektura/Feladat.md",
+    "Untitled.md",
+    "School/architektura/attachments/Feladat1eloadas.md",
+    "School/architektura/Cimforditas.md",
+    "School/architektura/Utasitasok felepitesee.md",
+    "School/architektura/attachments/Virtualis Memoria Virtual Memory 2024-12-02 08.42.16.excalidraw.md",
+    "School/architektura/attachments/Virtualis Memoria Virtual Memory 2024-12-02 08.28.10.excalidraw.md",
+    "School/architektura/Bevezeto Architektura.md",
+    "School/architektura/Egy utasitas lefutasa.md",
+    "School/architektura/Evbeosztas.md",
+    "School/architektura/CPU tervezes.md",
+    "School/architektura/Hatszintu szamitogep felepitese.md",
+    "School/architektura/A CPU VHDL megvalositasa.md",
+    "School/architektura/A CPU osszeepitese strukturalis VHDL-ben.md",
+    "School/architektura/ALU - Arithmetical Logical Unit.md",
+    "School/architektura/DataMemory.md",
+    "School/Database/Home Monitor.md",
+    "School/Database/attachments/ProjektHomeMonitor.excalidraw.md",
+    "School/Database/Projekt.md",
+    "conflict-files-obsidian-git.md",
+    "attachments/Untitled 2024-11-28 15.14.29.excalidraw.md",
+    "School/Tortenelem/eloadasok/Onkenyuralom.md",
+    "Robotics/Components and money.canvas",
+    "Robotics",
+    "Untitled.canvas",
+>>>>>>> c4a1e279dfba413edf366600eeea35c51b5ecda4
     "School/OPrendszerek/attachments/Pasted image 20241120102916.png",
     "School/OPrendszerek/attachments/Pasted image 20241120102812.png",
     "School/OPrendszerek/attachments/Pasted image 20241120102710.png",
@@ -264,6 +316,12 @@
     "School/Digitalis Elektronika/attachments/NEXIS7AMasterXDC.txt",
     "School/Digitalis Elektronika/attachments/boolAlgebraTetelek.pdf",
     "School/Digitalis Elektronika/attachments",
+<<<<<<< HEAD
     "Untitled.canvas"
+=======
+    "attachments/Diagram 2.svg.xml",
+    "attachments/Diagram 2.svg",
+    "attachments/Diagram 1.svg"
+>>>>>>> c4a1e279dfba413edf366600eeea35c51b5ecda4
   ]
 }

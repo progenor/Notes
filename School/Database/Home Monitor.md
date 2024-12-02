@@ -29,7 +29,9 @@ Amit szabad hasznalni
 	3. light
 	4. pir
 	5. date/time
-	6. air quality sensor ????
+	6. air quality sensor
+	7. device id
+	8. time
 3. config
 	1. device id
 	2. update_interval
@@ -95,3 +97,6 @@ Amit szabad hasznalni
 
 
 ![[ProjektHomeMonitor.excalidraw|100%]]
+
+![[Untitled.svg]]
+[[Home monitor Create functions]]

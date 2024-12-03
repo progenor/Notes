@@ -1,44 +1,24 @@
 {
   "main": {
-    "id": "b5aa87085b73b04c",
+    "id": "c144799ac62ac215",
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
-        "id": "17bac65a8bcef78c",
+        "id": "065b2adffa58f7fb",
         "type": "tabs",
         "children": [
           {
-            "id": "18a2c3b179b9e7b4",
+            "id": "eace1e0d7e6b2833",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Database/Home Monitor.md",
+                "file": "School/Database/Database Security.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home Monitor"
-            }
-          },
-          {
-            "id": "96153038ad9f877f",
-=======
-        "id": "7222c974f2545779",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "aa6e0566ee85bf2f",
->>>>>>> c4a1e279dfba413edf366600eeea35c51b5ecda4
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "School/architektura/attachments/FeladatCimzestartomany.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "FeladatCimzestartomany.excalidraw"
+              "title": "Database Security"
             }
           }
         ]
@@ -47,20 +27,32 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "198b2b370ac3d582",
+    "id": "29cbf6ad4daaaed9",
     "type": "split",
     "children": [
       {
-        "id": "c20fbe35dea1df28",
+        "id": "a4d278dcb78cd6c5",
         "type": "tabs",
         "children": [
           {
-            "id": "2580741eb0c2e35e",
+            "id": "5a8d5c825f3f40e3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "333c2fe9eaa4fa94",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Hardward",
+                "query": "user_re",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,7 +64,7 @@
             }
           },
           {
-            "id": "9bc55ef02af8fe53",
+            "id": "8c5900c8313a9257",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -80,37 +72,56 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "bf64c69ec81aca43",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "fbb5ed34af40dcdc",
+    "id": "2af3991c09b80762",
     "type": "split",
     "children": [
       {
-        "id": "4cb215ba294ebe8a",
+        "id": "590d62fbb0669f1e",
         "type": "tabs",
         "children": [
           {
-            "id": "76abd986000fdacc",
+            "id": "08b3ad41bf143f3e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "School/Database/Database Security.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Database Security"
+            }
+          },
+          {
+            "id": "a420bb2077b86ff8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "School/Database/Database Security.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Database Security"
+            }
+          },
+          {
+            "id": "1985964f0e44c7e2",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -123,72 +134,29 @@
             }
           },
           {
-            "id": "88e07c30ea38f2e9",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "f9c1d17a499f9d49",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "18cf77c9eb87eb99",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "School/architektura/attachments/FeladatCimzestartomany.excalidraw.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for FeladatCimzestartomany.excalidraw"
-            }
-          },
-          {
-            "id": "ec6786f31fdaa49a",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "School/architektura/attachments/FeladatCimzestartomany.excalidraw.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from FeladatCimzestartomany.excalidraw"
-            }
-          },
-          {
-            "id": "7e1d823f6d074b4e",
+            "id": "03ad98982023dbd6",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/architektura/attachments/FeladatCimzestartomany.excalidraw.md"
+                "file": "School/Database/Database Security.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of FeladatCimzestartomany.excalidraw"
+              "title": "Outline of Database Security"
             }
           },
           {
-            "id": "6979ffadf38325f9",
+            "id": "983faf02115508d9",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "8a544aff94e42e61",
             "type": "leaf",
             "state": {
               "type": "todo",
@@ -196,23 +164,13 @@
               "icon": "checkmark",
               "title": "Todo List"
             }
-          },
-          {
-            "id": "0375055409b9fe09",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 299.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -223,105 +181,27 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
       "markdown-importer:Open format converter": false,
+      "audio-recorder:Start/stop recording": false,
       "publish:Publish changes...": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "templater-obsidian:Templater": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-<<<<<<< HEAD
-  "active": "18a2c3b179b9e7b4",
+  "active": "eace1e0d7e6b2833",
   "lastOpenFiles": [
-    "School/Database/Home monitor Create functions.md",
-    "School/Database/Home Monitor.md",
-    "School/Database/attachments/Untitled.sql",
-    "School/Database/attachments/Untitled.pdf",
-    "School/Database/attachments/Untitled.svg",
-    "School/Database/attachments/ProjektHomeMonitor.excalidraw.md",
-    "School/Database/YES.md",
-    "School/Database/TaborHF.md",
-    "School/Database/Sql Matek Alapok.md",
-    "School/Database/SQL.md",
-    "School/Database/Select more options.md",
-    "School/Database/Rendorseg.md",
-    "School/Database/Regex.md",
-    "School/Database/Projekt.md",
-    "School/Database/Kolcson.svg",
-    "School/Database/JSON.md",
-    "School/Database/JOIN.md",
-    "School/Database/Intresting shit.md",
-    "School/Database/Insert Statements.md",
-    "School/Database/Feladatok.md",
-    "School/Database/Database diagram.md",
-    "School/Database/Ceg Feladat.md",
-    "School/architektura/Stack.md",
-    "School/architektura/Memoriak Memories.md",
-    "School/architektura/Microarchitektura tombvazlat.md",
-    "School/architektura/attachments/Memoriak Memories 2024-11-25 09.14.09.excalidraw.md",
-    "School/architektura/attachments/Memoriak Memories 2024-11-25 09.29.25.excalidraw.md",
-    "School/architektura/Vezerloegyseg.md",
-    "School/architektura/Utasitasok felepitesee.md",
-    "School/architektura/Utasitas Keszlet felepitese.md",
-=======
-  "active": "aa6e0566ee85bf2f",
-  "lastOpenFiles": [
-    "School/architektura/attachments/Memoriak Memories 2024-11-25 09.29.25.excalidraw.md",
-    "School/architektura/attachments/FeladatCimzestartomany.excalidraw.md",
-    "School/architektura/Memoriak Memories.md",
-    "School/architektura/Virtualis Memoria Virtual Memory.md",
-    "School/architektura/Feladat.md",
-    "Untitled.md",
-    "School/architektura/attachments/Feladat1eloadas.md",
-    "School/architektura/Cimforditas.md",
-    "School/architektura/Utasitasok felepitesee.md",
-    "School/architektura/attachments/Virtualis Memoria Virtual Memory 2024-12-02 08.42.16.excalidraw.md",
-    "School/architektura/attachments/Virtualis Memoria Virtual Memory 2024-12-02 08.28.10.excalidraw.md",
-    "School/architektura/Bevezeto Architektura.md",
-    "School/architektura/Egy utasitas lefutasa.md",
-    "School/architektura/Evbeosztas.md",
-    "School/architektura/CPU tervezes.md",
-    "School/architektura/Hatszintu szamitogep felepitese.md",
-    "School/architektura/A CPU VHDL megvalositasa.md",
-    "School/architektura/A CPU osszeepitese strukturalis VHDL-ben.md",
-    "School/architektura/ALU - Arithmetical Logical Unit.md",
-    "School/architektura/DataMemory.md",
-    "School/Database/Home Monitor.md",
-    "School/Database/attachments/ProjektHomeMonitor.excalidraw.md",
-    "School/Database/Projekt.md",
-    "conflict-files-obsidian-git.md",
-    "attachments/Untitled 2024-11-28 15.14.29.excalidraw.md",
-    "School/Tortenelem/eloadasok/Onkenyuralom.md",
+    "School/Database/Sequences.md",
+    "School/Database/Database Security.md",
+    "School/Database/Delete functions.md",
+    "School/Database/Constraint.md",
+    "School/Database/Recycle bin.md",
+    "School/Database/Primary key AND unique.md",
     "Robotics/Components and money.canvas",
-    "Robotics",
-    "Untitled.canvas",
->>>>>>> c4a1e279dfba413edf366600eeea35c51b5ecda4
-    "School/OPrendszerek/attachments/Pasted image 20241120102916.png",
-    "School/OPrendszerek/attachments/Pasted image 20241120102812.png",
-    "School/OPrendszerek/attachments/Pasted image 20241120102710.png",
-    "School/OPrendszerek/attachments/Pasted image 20241120102545.png",
-    "School/OPrendszerek/attachments/Pasted image 20241120102513.png",
-    "School/OPrendszerek/attachments/Pasted image 20241120102500.png",
-    "School/OPrendszerek/attachments/Pasted image 20241120102428.png",
-    "School/OPrendszerek/attachments",
-    "School/architektura/attachments/attachments/image_0.png",
-    "School/Tortenelem/eloadasok/attachments/KulturToriExtended.pdf",
-    "School/Tortenelem/eloadasok/attachments/kulturtori.pdf",
-    "School/Tortenelem/eloadasok/attachments",
-    "School/Tortenelem/eloadasok",
-    "School/Digitalis Elektronika/attachments/NEXIS7AMasterXDC.txt",
-    "School/Digitalis Elektronika/attachments/boolAlgebraTetelek.pdf",
-    "School/Digitalis Elektronika/attachments",
-<<<<<<< HEAD
-    "Untitled.canvas"
-=======
-    "attachments/Diagram 2.svg.xml",
-    "attachments/Diagram 2.svg",
-    "attachments/Diagram 1.svg"
->>>>>>> c4a1e279dfba413edf366600eeea35c51b5ecda4
+    "School/Database/Alter and modify drop.md",
+    "School/Database/DML and DDL.md"
   ]
 }

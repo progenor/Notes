@@ -1,4 +1,7 @@
 
+# ORACLE PASS
+pleaseLetMeIN
+
 # Miert
 Erdekes kicsi eszkoz ami felmeri a szoba tulajdonsagait es az ember szokasait.
 Mukodhet szoba vedelemkent is vagy egyfajta hazi rendszer.
@@ -54,15 +57,12 @@ Amit szabad hasznalni
 	5. admin?user 
 	   (at home example parents admin children user)
 	6. create_date
-	7. device id
-7. Location
+	7.  uj tabla amiben lesz egy deviceid userid es jogok
+2. Location
 	1. device id
 	2. general location
 	3. home location
-8. Charge times
-	1. device id
-	2. date
-9. Am I at home or not a push button maybe?
+4. Am I at home or not a push button maybe?
 	1. device id
 	2. at home - bool
 	3. last_changed_dateTime
@@ -74,7 +74,7 @@ Amit szabad hasznalni
 	3. number
 	4. description
 	5. notes
-11. Components
+11. ComponentsPriceTag
 	1. components.id = id
 	2. number
 	3. price single
@@ -86,14 +86,15 @@ Amit szabad hasznalni
 	1. uid
 	2. location
 	3. name
-	4. phoneNumber
-	5. email
+	5. phoneNumber
+	6. email
 14. sales
 	1. uid = oderUserInfo.uid
 	2. number
 	3. orderID
 	4. delivered?
 	5. device id
+	6. order_price
 
 
 ![[ProjektHomeMonitor.excalidraw|100%]]

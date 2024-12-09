@@ -4,11 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "7222c974f2545779",
+        "id": "c82f0f23763b116f",
         "type": "tabs",
         "children": [
           {
-            "id": "aa6e0566ee85bf2f",
+            "id": "7ea01c38cb30630e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/architektura/Feladat Virtualis memoria.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Feladat Virtualis memoria"
+            }
+          },
+          {
+            "id": "7ec650cb0e9d02d7",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -19,7 +33,8 @@
               "title": "FeladatCimzestartomany.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -38,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Hardward",
+                "query": "total",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "fbb5ed34af40dcdc",
@@ -205,41 +219,42 @@
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "templater-obsidian:Templater": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "aa6e0566ee85bf2f",
+  "active": "7ec650cb0e9d02d7",
   "lastOpenFiles": [
-    "School/architektura/attachments/Memoriak Memories 2024-11-25 09.29.25.excalidraw.md",
+    "School/architektura/Feladat Virtualis memoria.md",
     "School/architektura/attachments/FeladatCimzestartomany.excalidraw.md",
-    "School/architektura/Memoriak Memories.md",
-    "School/architektura/Virtualis Memoria Virtual Memory.md",
-    "School/architektura/Feladat.md",
-    "Untitled.md",
-    "School/architektura/attachments/Feladat1eloadas.md",
+    "School/architektura/RISC-V & ARM.md",
+    "School/architektura/Virtualis Memoria Virtual Memory (Cache).md",
     "School/architektura/Cimforditas.md",
+    "School/architektura/TLB Translation Lookaside Buffer.md",
+    "School/TOTAL.md",
+    "School/architektura/Microarchitektura tombvazlat.md",
+    "School/architektura/Vezerloegyseg.md",
     "School/architektura/Utasitasok felepitesee.md",
-    "School/architektura/attachments/Virtualis Memoria Virtual Memory 2024-12-02 08.42.16.excalidraw.md",
-    "School/architektura/attachments/Virtualis Memoria Virtual Memory 2024-12-02 08.28.10.excalidraw.md",
-    "School/architektura/Bevezeto Architektura.md",
-    "School/architektura/Egy utasitas lefutasa.md",
-    "School/architektura/Evbeosztas.md",
-    "School/architektura/CPU tervezes.md",
+    "School/architektura/Utasitas Keszlet felepitese.md",
+    "School/architektura/Register Block.md",
+    "School/architektura/mikro utasitasok Instruction set.md",
+    "School/architektura/Memoriak Memories.md",
+    "School/architektura/KCPSM6 Pico Blaze 6 architecture.md",
+    "School/architektura/KCPSM3 Pico Blaze 3 archit.md",
+    "School/architektura/IFDEC.md",
     "School/architektura/Hatszintu szamitogep felepitese.md",
-    "School/architektura/A CPU VHDL megvalositasa.md",
-    "School/architektura/A CPU osszeepitese strukturalis VHDL-ben.md",
-    "School/architektura/ALU - Arithmetical Logical Unit.md",
+    "School/architektura/Evbeosztas.md",
+    "School/architektura/Egy utasitas lefutasa.md",
     "School/architektura/DataMemory.md",
-    "School/Database/Home Monitor.md",
-    "School/Database/attachments/ProjektHomeMonitor.excalidraw.md",
-    "School/Database/Projekt.md",
-    "conflict-files-obsidian-git.md",
-    "attachments/Untitled 2024-11-28 15.14.29.excalidraw.md",
-    "School/Tortenelem/eloadasok/Onkenyuralom.md",
+    "School/architektura/CPU tervezes.md",
+    "School/architektura/Bevezeto Architektura.md",
+    "School/architektura/A CPU VHDL megvalositasa.md",
+    "School/architektura/ALU - Arithmetical Logical Unit.md",
+    "School/architektura/A CPU osszeepitese strukturalis VHDL-ben.md",
+    "Job",
     "Robotics/Components and money.canvas",
     "Robotics",
     "Untitled.canvas",
@@ -259,7 +274,6 @@
     "School/Digitalis Elektronika/attachments/NEXIS7AMasterXDC.txt",
     "School/Digitalis Elektronika/attachments/boolAlgebraTetelek.pdf",
     "School/Digitalis Elektronika/attachments",
-    "attachments/Diagram 2.svg.xml",
     "attachments/Diagram 2.svg",
     "attachments/Diagram 1.svg"
   ]

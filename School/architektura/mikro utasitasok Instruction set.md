@@ -48,9 +48,6 @@
 
 # Scratch Pad Memory
 ## Store
-```vhdl
-STORE Sx,(Sy)
-```
 0. Instruction fetch
 1. Decode; DataMemory `Sel_Addr = '1' `
 2. `RW = '0'`
@@ -70,10 +67,7 @@ STORE Sx,(Sy)
 4. MRd = '0'
 # Arithmetic
 ## ADD
-```VHDL
-ADDCY Sx, Sy
-```
-0. 
+0. Instruction fetch
 1. Decode `ALUresult="010"`
 2. `RW = '0'`
 3. `EXECUTE='1'`

@@ -6,11 +6,11 @@ kanban-plugin: basic
 
 ## #todo TODO
 
-- [ ] befejzni az SQL es cuccoakat
 
 
 ## in progress #todo
 
+- [ ] check for good backup options
 
 
 ## completed
@@ -22,6 +22,7 @@ kanban-plugin: basic
 
 ## Archive
 
+- [x] 12-06:00:06 befejzni az SQL es cuccoakat
 - [x] 09-23:08:01 Digitalis elozo hazi feladat debug @{2024-05-23}
 - [x] 09-23:08:01 Digitalis hazi feladat @{2024-05-23}
 - [x] 09-23:08:01 Fizika jegyzet @{2024-05-23}

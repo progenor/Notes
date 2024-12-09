@@ -41,3 +41,6 @@
 - konyebb szoftverfejlesztes
 - vedelmet ad
 - task onkent kulon tabla
+
+
+![[TLB Translation Lookaside Buffer]]

@@ -6,6 +6,9 @@ kanban-plugin: basic
 
 ## #todo TODO
 
+- [ ] @{2024-12-12} create a xls for the [[Synology NAS]] component prices options
+- [ ] @{2024-12-12} ask @beni for opinion on all of this
+- [ ] @{2024-12-12} check out  backup software and an option for git like file changes
 
 
 ## in progress #todo

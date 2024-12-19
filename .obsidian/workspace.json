@@ -4,22 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "824e026d43754c79",
+        "id": "01b828f37d12c3b1",
         "type": "tabs",
         "children": [
           {
-            "id": "1b6b9d3f2f27c5c7",
+            "id": "6dcdedf0a3a6087e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Ceg.md"
+                "file": "Robotics/Alkatreszek.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Ceg"
+              "icon": "lucide-file",
+              "title": "Alkatreszek"
+            }
+          },
+          {
+            "id": "c3be75428ca83bbe",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Robotics/TODO ROBOTICS.md"
+              },
+              "icon": "lucide-trello",
+              "title": "TODO ROBOTICS"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -50,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "neuma",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 209.5086555480957
   },
   "right": {
     "id": "f12bdc532e83adb5",
@@ -91,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Ceg.md",
+                "file": "Job/Synology NAS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Ceg"
+              "title": "Backlinks for Synology NAS"
             }
           },
           {
@@ -110,12 +125,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Ceg.md",
+                "file": "Job/Synology NAS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Ceg"
+              "title": "Outgoing links from Synology NAS"
             }
           },
           {
@@ -137,10 +152,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Ceg.md"
+                "file": "Job/Synology NAS.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Ceg"
+              "title": "Outline of Synology NAS"
             }
           },
           {
@@ -190,13 +205,43 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8e1e0ba9a057dc30",
+  "active": "c3be75428ca83bbe",
   "lastOpenFiles": [
+    "Robotics/attachments/Pasted image 20241219091820.png",
+    "Robotics/PCB sensors LED visualization.md",
+    "Robotics/attachments/PCB sensors LED visualization 2024-12-19 08.44.29.excalidraw.md",
+    "Robotics/TODO ROBOTICS.md",
+    "Robotics/attachments",
+    "Robotics/Alkatreszek.md",
+    "Robotics/Components and money.canvas",
+    "School/OPrendszerek/Tombok.md",
+    "School/Tortenelem/eloadasok/Felevi.md",
+    "School/Tortenelem/eloadasok/011 elso eloadas kezdet.md",
+    "School/Tortenelem/eloadasok/Onkenyuralom.md",
+    "School/architektura/mikro utasitasok Instruction set.md",
+    "School/architektura/Processor tervezes Elorol.md",
     "School/architektura/Virtualis Memoria Virtual Memory (Cache).md",
-    "School/architektura/TLB Translation Lookaside Buffer.md",
-    "School/architektura/RISC-V & ARM.md",
-    "School/architektura/Feladat Virtualis memoria.md",
+    "School/architektura/Microarchitektura tombvazlat.md",
+    "School/architektura/Untitled.md",
+    "School/architektura/Bevezeto Architektura.md",
+    "School/architektura/Utasitasok felepitesee.md",
+    "School/architektura/KCPSM6 Pico Blaze 6 architecture.md",
+    "School/architektura/KCPSM3 Pico Blaze 3 archit.md",
+    "School/Database/Home Monitor.md",
+    "School/Database/Feladatok.md",
+    "School/Database/Insert Statements.md",
+    "School/Database/Projekt.md",
+    "Job/Acronis.md",
+    "Job/Synology NAS.md",
+    "Job/attachments/lu1090l32.tmp",
     "Job/Jo BackUp opciok.md",
+    "Job/attachments/Pasted image 20241212185651.png",
+    "Job/attachments/lu4230164pu.tmp",
+    "Job/attachments/lu4230164ga.tmp",
+    "Job/attachments/NAS setup options.xlsx",
+    "Job/attachments/lu423016431.tmp",
+    "Job/attachments",
+    "TODOS.md",
     "Job"
   ]
 }

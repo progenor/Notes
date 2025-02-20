@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Merestechnika/Merestechnika alapok.md",
+                "file": "School/OPrendszerek/Oprendszerek 2 folytatas bevezetes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Merestechnika alapok"
+              "title": "Oprendszerek 2 folytatas bevezetes"
+            }
+          },
+          {
+            "id": "45ae299137691b43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/OPrendszerek/GCC commandok.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GCC commandok"
+            }
+          },
+          {
+            "id": "8787fb7f2e872d7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/OPrendszerek/File actions in C.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "File actions in C"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -194,11 +223,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a2ab15f07d9e0bf5",
+  "active": "8787fb7f2e872d7f",
   "lastOpenFiles": [
+    "School/OPrendszerek/GCC commandok.md",
+    "School/OPrendszerek/File actions in C.md",
+    "School/OPrendszerek/Env Varialbles in C.md",
+    "School/OPrendszerek/attachments/1_eszkozok.pdf",
+    "School/OPrendszerek/Oprendszerek 2 folytatas bevezetes.md",
+    "School/OPrendszerek/attachments/gccintro.pdf",
+    "School/OPrendszerek/attachments/gdb_quickref.pdf",
+    "School/RendszerElmelet Jelek/MATLAB Bevezeto Lab 1.md",
+    "School/RendszerElmelet Jelek/Jelek alapok.md",
+    "School/RendszerElmelet Jelek/Bevezetes.md",
+    "School/Merestechnika/Merestechnika alapok.md",
+    "School/RendszerElmelet Jelek",
     "School/Merestechnika/attachments/Villamos Elektronikus es Virtualis Meresek_REAL.pdf",
     "School/Fizika/eloadasok/011 mertekegysegek.md",
-    "School/Merestechnika/Merestechnika alapok.md",
     "School/Fizika/eloadasok/012 fizika kezdetek.md",
     "School/Merestechnika/attachments/Pasted image 20250219093502.png",
     "School/Merestechnika/attachments/Pasted image 20250219093441.png",
@@ -225,16 +265,6 @@
     "School/architektura/mikro utasitasok Instruction set.md",
     "School/architektura/Processor tervezes Elorol.md",
     "School/architektura/Virtualis Memoria Virtual Memory (Cache).md",
-    "School/architektura/Microarchitektura tombvazlat.md",
-    "School/architektura/Untitled.md",
-    "School/architektura/Bevezeto Architektura.md",
-    "School/architektura/Utasitasok felepitesee.md",
-    "School/architektura/KCPSM6 Pico Blaze 6 architecture.md",
-    "School/architektura/KCPSM3 Pico Blaze 3 archit.md",
-    "Job/attachments/lu1090l32.tmp",
-    "Job/attachments/Pasted image 20241212185651.png",
-    "Job/attachments/lu4230164pu.tmp",
-    "Job/attachments/lu4230164ga.tmp",
-    "Job/attachments/NAS setup options.xlsx"
+    "Job/attachments/Pasted image 20241212185651.png"
   ]
 }

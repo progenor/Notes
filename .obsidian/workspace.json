@@ -4,49 +4,61 @@
     "type": "split",
     "children": [
       {
-        "id": "0c8a0bedc791543d",
+        "id": "a9b102236c72cc06",
         "type": "tabs",
         "children": [
           {
-            "id": "a2ab15f07d9e0bf5",
+            "id": "802794220ab23f3b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "School/OPrendszerek/Oprendszerek 2 folytatas bevezetes.md",
-                "mode": "source",
-                "source": false
+                "file": "TODOS.md"
               },
-              "icon": "lucide-file",
-              "title": "Oprendszerek 2 folytatas bevezetes"
+              "icon": "lucide-trello",
+              "title": "TODOS"
             }
           },
           {
-            "id": "45ae299137691b43",
+            "id": "55b8d9fc88440adc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/OPrendszerek/GCC commandok.md",
+                "file": "School/OPrendszerek/Architektura Felepitese.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GCC commandok"
+              "title": "Architektura Felepitese"
             }
           },
           {
-            "id": "8787fb7f2e872d7f",
+            "id": "bda497419f821923",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/OPrendszerek/File actions in C.md",
+                "file": "School/OPrendszerek/Mikroachtiektura mukodese oprendszerekben.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "File actions in C"
+              "title": "Mikroachtiektura mukodese oprendszerekben"
+            }
+          },
+          {
+            "id": "0f2a8e66d423fecd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/OPrendszerek/Kernel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kernel"
             }
           }
         ],
@@ -223,13 +235,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8787fb7f2e872d7f",
+  "active": "bda497419f821923",
   "lastOpenFiles": [
+    "School/OPrendszerek/attachments/Mikroachtiektura mukodese oprendszerekben 2025-02-25 16.03.09.excalidraw.md",
+    "School/OPrendszerek/Mikroachtiektura mukodese oprendszerekben.md",
+    "School/OPrendszerek/Architektura Felepitese.md",
+    "School/OPrendszerek/Kernel.md",
+    "School/architektura/attachments/mikro tombvazlat.md",
+    "School/architektura/Virtualis Memoria Virtual Memory (Cache).md",
+    "TODOS.md",
+    "School/OPrendszerek/Oprendszerek 2 folytatas bevezetes.md",
     "School/OPrendszerek/GCC commandok.md",
     "School/OPrendszerek/File actions in C.md",
     "School/OPrendszerek/Env Varialbles in C.md",
     "School/OPrendszerek/attachments/1_eszkozok.pdf",
-    "School/OPrendszerek/Oprendszerek 2 folytatas bevezetes.md",
     "School/OPrendszerek/attachments/gccintro.pdf",
     "School/OPrendszerek/attachments/gdb_quickref.pdf",
     "School/RendszerElmelet Jelek/MATLAB Bevezeto Lab 1.md",
@@ -256,15 +275,8 @@
     "Robotics/TODO ROBOTICS.md",
     "Robotics/attachments/Pasted image 20241219091820.png",
     "Robotics/PCB sensors LED visualization.md",
-    "Robotics/attachments/PCB sensors LED visualization 2024-12-19 08.44.29.excalidraw.md",
     "Robotics/attachments",
     "Robotics/Components and money.canvas",
-    "School/OPrendszerek/Tombok.md",
-    "School/Tortenelem/eloadasok/011 elso eloadas kezdet.md",
-    "School/Tortenelem/eloadasok/Onkenyuralom.md",
-    "School/architektura/mikro utasitasok Instruction set.md",
-    "School/architektura/Processor tervezes Elorol.md",
-    "School/architektura/Virtualis Memoria Virtual Memory (Cache).md",
     "Job/attachments/Pasted image 20241212185651.png"
   ]
 }

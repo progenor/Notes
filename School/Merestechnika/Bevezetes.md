@@ -11,4 +11,5 @@
 	- 2 merestechinka
 	- 1 erzzekelok
 - 80% jelenlet vissza lehet adni a tetelt ha nem tetszik 1  szer
-- 
+
+

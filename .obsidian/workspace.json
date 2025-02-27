@@ -4,65 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "a9b102236c72cc06",
+        "id": "7ce221138f48f9bf",
         "type": "tabs",
         "children": [
           {
-            "id": "802794220ab23f3b",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "TODOS.md"
-              },
-              "icon": "lucide-trello",
-              "title": "TODOS"
-            }
-          },
-          {
-            "id": "55b8d9fc88440adc",
+            "id": "001c56cc22b513bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/OPrendszerek/Architektura Felepitese.md",
+                "file": "School/OPrendszerek/Functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Architektura Felepitese"
-            }
-          },
-          {
-            "id": "bda497419f821923",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/OPrendszerek/Mikroachtiektura mukodese oprendszerekben.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mikroachtiektura mukodese oprendszerekben"
-            }
-          },
-          {
-            "id": "0f2a8e66d423fecd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/OPrendszerek/Kernel.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kernel"
+              "title": "Functions"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -235,48 +194,53 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bda497419f821923",
+  "active": "001c56cc22b513bf",
   "lastOpenFiles": [
-    "School/OPrendszerek/attachments/Mikroachtiektura mukodese oprendszerekben 2025-02-25 16.03.09.excalidraw.md",
-    "School/OPrendszerek/Mikroachtiektura mukodese oprendszerekben.md",
+    "School/OPrendszerek/attachments/Functions 2025-02-27 09.19.57.excalidraw.md",
+    "Excalidraw/Scripts/Downloaded/Normalize Selected Arrows.svg",
+    "Excalidraw/Scripts/Downloaded/Normalize Selected Arrows.md",
+    "Excalidraw/Scripts/Downloaded/Set Dimensions.svg",
+    "Excalidraw/Scripts/Downloaded/Set Dimensions.md",
+    "Excalidraw/Scripts/Downloaded/PDF Page Text to Clipboard.svg",
+    "Excalidraw/Scripts/Downloaded/PDF Page Text to Clipboard.md",
+    "Excalidraw/Scripts/Downloaded/Expand rectangles horizontally.svg",
+    "Excalidraw/Scripts/Downloaded/Expand rectangles horizontally.md",
+    "Excalidraw/Scripts/Downloaded/Image Occlusion.svg",
+    "Excalidraw/Scripts/Downloaded/Image Occlusion.md",
+    "Excalidraw/Scripts/Downloaded/Mindmap format.svg",
+    "Excalidraw/Scripts/Downloaded/Mindmap format.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "School/OPrendszerek/Functions.md",
+    "School/OPrendszerek/Allocate large files And file system.md",
+    "School/OPrendszerek/GCC commandok.md",
+    "School/OPrendszerek/C hiba error kezeles.md",
+    "School/Merestechnika/Laborok/Áramköri elemek mérése ipari módszerekkel (lab1).md",
+    "School/Merestechnika/Laborok/attachments/Pasted image 20250226162607.png",
+    "School/Merestechnika/Laborok/attachments/Pasted image 20250226162534.png",
+    "School/Merestechnika/Laborok/attachments",
+    "School/Merestechnika/Laborok",
+    "School/Merestechnika/Meromuszerek.md",
+    "School/Merestechnika/Eggyeniranyitas.md",
+    "School/Merestechnika/attachments/Pasted image 20250226095015.png",
+    "School/Merestechnika/attachments/Pasted image 20250226095012.png",
+    "School/Merestechnika/attachments/Villamos Elektronikus es Virtualis Meresek_REAL.pdf",
+    "School/Merestechnika/attachments/Eggyeniranyitas 2025-02-26 09.46.38.excalidraw.md",
+    "School/Merestechnika/Bevezetes.md",
+    "TODOS.md",
     "School/OPrendszerek/Architektura Felepitese.md",
+    "School/OPrendszerek/Mikroachtiektura mukodese oprendszerekben.md",
+    "School/OPrendszerek/attachments/Mikroachtiektura mukodese oprendszerekben 2025-02-25 16.03.09.excalidraw.md",
     "School/OPrendszerek/Kernel.md",
     "School/architektura/attachments/mikro tombvazlat.md",
     "School/architektura/Virtualis Memoria Virtual Memory (Cache).md",
-    "TODOS.md",
     "School/OPrendszerek/Oprendszerek 2 folytatas bevezetes.md",
-    "School/OPrendszerek/GCC commandok.md",
     "School/OPrendszerek/File actions in C.md",
-    "School/OPrendszerek/Env Varialbles in C.md",
     "School/OPrendszerek/attachments/1_eszkozok.pdf",
     "School/OPrendszerek/attachments/gccintro.pdf",
     "School/OPrendszerek/attachments/gdb_quickref.pdf",
-    "School/RendszerElmelet Jelek/MATLAB Bevezeto Lab 1.md",
-    "School/RendszerElmelet Jelek/Jelek alapok.md",
-    "School/RendszerElmelet Jelek/Bevezetes.md",
-    "School/Merestechnika/Merestechnika alapok.md",
     "School/RendszerElmelet Jelek",
-    "School/Merestechnika/attachments/Villamos Elektronikus es Virtualis Meresek_REAL.pdf",
-    "School/Fizika/eloadasok/011 mertekegysegek.md",
-    "School/Fizika/eloadasok/012 fizika kezdetek.md",
-    "School/Merestechnika/attachments/Pasted image 20250219093502.png",
-    "School/Merestechnika/attachments/Pasted image 20250219093441.png",
     "School/Merestechnika/attachments/Erzekelok es merohalozatok_interior_REAL.pdf",
-    "School/Merestechnika/Bevezetes.md",
-    "School/Merestechnika/attachments",
-    "School/Merestechnika",
-    "School/Haskell/Adatszerkezetek.md",
-    "School/Haskell/Alapok.md",
-    "School/Tortenelem/eloadasok/Felevi.md",
-    "School/Haskell",
-    "School/Untitled.md",
-    "Robotics/Alkatreszek.md",
-    "School/TOTAL.md",
-    "Robotics/TODO ROBOTICS.md",
-    "Robotics/attachments/Pasted image 20241219091820.png",
-    "Robotics/PCB sensors LED visualization.md",
-    "Robotics/attachments",
-    "Robotics/Components and money.canvas",
-    "Job/attachments/Pasted image 20241212185651.png"
+    "Robotics/Components and money.canvas"
   ]
 }

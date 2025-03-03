@@ -1,6 +1,6 @@
 # Kerdesek es valaszok
 ## 1. Mi a MATLAB promptere?
-egy munkafelulet, egy parancs sor ahova muveleteket tudunk beirni lekerni interaktivan.
+Egy munkafelulet, egy parancs sor ahova muveleteket tudunk beirni lekerni interaktivan. Meg maga a MATLAB feluletet is tudjuk befolyasolni. (command line)
 ## 2. Hogyan lehet egy utasitasra konnyen segitseget kerni?
 - `help <parancs nev>` parancs beirasaval a promtba ami kiir egy elegge reszletes magyarazatot a parancs hasznalatara es magyarazatod ad
 - `lookfor <parancs szo>` ez a parancs segitsegevel konnyeden megkaphatunk valamilyen parancsot amit keresunk - kiad egy listat amiben benne van a szo a leirasban vagy neveben

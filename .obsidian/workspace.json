@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "78fb753bb36adf48",
+        "id": "897981ba90449d46",
         "type": "tabs",
         "children": [
           {
-            "id": "bff077dce097134f",
+            "id": "ba8006b3b6cd778f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/Database/Home Monitor.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Home Monitor"
+              "title": "New tab"
             }
           }
         ]
@@ -40,7 +36,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -187,40 +184,40 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "templater-obsidian:Templater": false,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bff077dce097134f",
+  "active": "ba8006b3b6cd778f",
   "lastOpenFiles": [
+    "School/Database/Vizsga Keszulodes.md",
+    "School/Database/Rendorseg.md",
+    "School/Database/SQL.md",
+    "School/Database/Sequences.md",
+    "School/Database/Select more options.md",
+    "School/Database/Sql Matek Alapok.md",
+    "School/Database/HomeMonitorCompleteDocumentation.md",
+    "School/Database/Home monitor Create functions.md",
+    "School/Database/Constraint.md",
+    "School/Database/Ceg Feladat.md",
     "School/Database/Alter and modify drop.md",
-    "School/Database/Database Security.md",
-    "School/architektura/attachments/Pasted image 20241007084611.png",
-    "School/architektura/mikro utasitasok Instruction set.md",
-    "School/architektura/Memoriak Memories.md",
-    "School/architektura/KCPSM6 Pico Blaze 6 architecture.md",
-    "School/architektura/Feladat.md",
-    "School/architektura/Microarchitektura tombvazlat.md",
-    "School/architektura/KCPSM3 Pico Blaze 3 archit.md",
-    "School/architektura/IFDEC.md",
-    "School/architektura/Hatszintu szamitogep felepitese.md",
-    "School/architektura/Egy utasitas lefutasa.md",
-    "School/architektura/Evbeosztas.md",
-    "School/architektura/A CPU osszeepitese strukturalis VHDL-ben.md",
-    "School/architektura/A CPU VHDL megvalositasa.md",
-    "School/architektura/ALU - Arithmetical Logical Unit.md",
-    "School/architektura/Bevezeto Architektura.md",
-    "School/architektura/Cimforditas.md",
-    "School/architektura/CPU tervezes.md",
-    "School/architektura/DataMemory.md",
-    "School/architektura/Register Block.md",
-    "School/architektura/Vezerloegyseg.md",
-    "School/architektura/Utasitasok felepitesee.md",
-    "School/architektura/Utasitas Keszlet felepitese.md",
-    "School/architektura/Stack.md",
     "School/architektura/Virtualis Memoria Virtual Memory.md",
-    "School/Database/Home Monitor.md",
+    "School/architektura/Memoria PSM.md",
+    "School/architektura/mikro utasitasok Instruction set.md",
+    "School/architektura/Register Block.md",
+    "School/architektura/Stack.md",
+    "School/architektura/Utasitas Keszlet felepitese.md",
+    "School/architektura/Utasitasok felepitesee.md",
+    "School/architektura/Vezerloegyseg.md",
+    "School/architektura/Hatszintu szamitogep felepitese.md",
+    "School/architektura/A CPU VHDL megvalositasa.md",
+    "School/architektura/Bevezeto Architektura.md",
+    "School/architektura/Microarchitektura tombvazlat.md",
+    "School/architektura/CPU tervezes.md",
+    "School/architektura/Cimforditas.md",
+    "School/architektura/Egy utasitas lefutasa.md",
+    "School/Database/attachments/Home Monitor.svg",
+    "School/Database/attachments/DatabaseDocument.pdf",
+    "School/architektura/attachments/Pasted image 20241007084611.png",
     "Robotics/Components and money.canvas"
   ]
 }

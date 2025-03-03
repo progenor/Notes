@@ -6,16 +6,23 @@ kanban-plugin: basic
 
 ## #todo TODO
 
-- [ ] befejzni az SQL es cuccoakat
+- [ ] Javitsd meg azt amelyik nem tudj sokat generalni
+- [ ] Irj meg sajat adatokat mindegyikhez
 
 
 ## in progress #todo
 
+- [ ] Csinlad meg a PDF et hozza a rajzot es magyarazatot meg stb
 
 
 ## completed
 
 **Complete**
+- [x] SQL EXPLAIN lekerdezesek
+- [x] Kossd hozza egy masik SQL tipus adatbazishoz
+- [x] befejzni az SQL es lekerdezeseket
+- [x] Ird ki a hulye FOREiNG KEY PK es stb tarsait WORD ban
+- [x] befejezni az UI reszt
 
 
 ***

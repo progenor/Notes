@@ -1,4 +1,4 @@
-![[Ceg]]
+![[Ceg|100%]]
 
 Alkalmazattok(**AID**, Nev, Cim, Tel, *RID*)
 Reszlegek(**RID**, Rnve, helyseg)

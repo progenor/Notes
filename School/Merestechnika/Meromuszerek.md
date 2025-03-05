@@ -23,3 +23,22 @@
 
 # Dioda meresre es teszteles
 [[Eggyeniranyitas]]
+
+
+# Multimeterek
+[[Villamos Elektronikus es Virtualis Meresek_REAL.pdf#page=63&selection=170,0,170,19|Villamos Elektronikus es Virtualis Meresek_REAL, page 63]]
+
+![[Pasted image 20250305081237.png]]
+![[Pasted image 20250305081316.png]]
+> [!info]
+Egyeniranyitasra  is beiilesszuk az egyeniranyitasu aramkort
+
+# [[Villamos Elektronikus es Virtualis Meresek_REAL.pdf#page=65&selection=4,0,4,51|Elektrodinamikus es ferodinamiukus meromuszerek]]
+
+![[Pasted image 20250305081630.png]]
+
+![[annotated_Pasted image 20250305082801]]
+
+- linearis kimenet
+
+#[[Hall Effect Aram mero]]

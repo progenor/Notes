@@ -6,6 +6,9 @@ kanban-plugin: basic
 
 ## Planed
 
+- [ ] change to serial insted of spi
+- [ ] check i2c io extender
+- [ ] digitalis irasokal kapcsolatosan
 
 
 ## In Progress

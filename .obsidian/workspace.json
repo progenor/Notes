@@ -4,24 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "07013013d0417289",
+        "id": "c11f63436eb3d60e",
         "type": "tabs",
         "children": [
           {
-            "id": "e050e5f36c8fa4ab",
+            "id": "12892635cf445777",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/OPrendszerek/Uj folyamat nyitasa.md",
+                "file": "School/Numerikus/Cholsky felbontas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Uj folyamat nyitasa"
+              "title": "Cholsky felbontas"
+            }
+          },
+          {
+            "id": "fc7d4ed6b5cdb7ed",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "School/Numerikus/attachments/Banach iteracio 2025-03-17 16.40.34.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Banach iteracio 2025-03-17 16.40.34.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -204,12 +217,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e050e5f36c8fa4ab",
+  "active": "fc7d4ed6b5cdb7ed",
   "lastOpenFiles": [
+    "School/Numerikus/Cholsky felbontas.md",
+    "School/Numerikus/Banach iteracio.md",
+    "School/Numerikus/attachments/Banach iteracio 2025-03-17 16.40.34.excalidraw.md",
+    "School/Numerikus/attachments/Chelsky felbontas 2025-03-13 10.31.34.excalidraw.md",
+    "School/Numerikus/attachments/attachments/Pasted Image 20250313105456_713.png",
+    "School/Numerikus/attachments/attachments/Pasted Image 20250313103752_160.png",
+    "School/Numerikus/attachments/attachments",
+    "School/Numerikus/attachments",
+    "School/Numerikus",
+    "School/attachments/Banach iteracio 2025-03-13 10.14.05.excalidraw.md",
+    "School/OPrendszerek/Uj folyamat nyitasa.md",
     "School/OPrendszerek/STDIN STDOUT.md",
     "School/OPrendszerek/Atiranyitas C ben.md",
     "School/OPrendszerek/attachments/Pasted image 20250313091739.png",
-    "School/OPrendszerek/Uj folyamat nyitasa.md",
     "School/OPrendszerek/attachments/Pasted image 20250313083521.png",
     "School/OPrendszerek/attachments/Uj folyamat nyitasa 2025-03-13 08.17.47.excalidraw.md",
     "Robotics/TODO ROBOTICS.md",
@@ -234,24 +257,15 @@
     "School/Merestechnika/attachments/Pasted image 20250312084451.png",
     "School/Merestechnika/attachments/Attemutarook csillapitok 2025-03-12 08.39.41.excalidraw.md",
     "School/Merestechnika/attachments/Pasted image 20250312083413.png",
-    "School/Merestechnika/attachments/annotated_Pasted image 20250312083217.md",
     "School/Merestechnika/attachments/Pasted image 20250312083217.png",
     "School/Merestechnika/attachments/Pasted image 20250312083009.png",
-    "School/Merestechnika/attachments/annotated_Pasted image 20250312082158.md",
     "School/Merestechnika/attachments/Pasted image 20250312082244.png",
-    "School/Merestechnika/attachments/Pasted image 20250312082158.png",
-    "School/Merestechnika/attachments/Pasted image 20250312081819.png",
-    "School/Merestechnika/DSP.md",
-    "School/OPrendszerek/Untitled.md",
     "Robotics/Line Folower.canvas",
     "Robotics/Components and money.canvas",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "School/Merestechnika/Laborok/attachments",
     "School/Merestechnika/Laborok",
-    "School/OPrendszerek/attachments/1_eszkozok.pdf",
-    "School/OPrendszerek/attachments/gccintro.pdf",
-    "School/OPrendszerek/attachments/gdb_quickref.pdf",
-    "School/RendszerElmelet Jelek"
+    "School/OPrendszerek/attachments/1_eszkozok.pdf"
   ]
 }

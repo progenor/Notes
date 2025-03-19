@@ -4,49 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "1e4d6715e00eb0d6",
+        "id": "aa2483a27939ea73",
         "type": "tabs",
         "children": [
           {
-            "id": "88f3b650dc1f575e",
+            "id": "a3d476ac9f0488da",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/OPrendszerek/Eloadas 5 Folyamatok kozotti komunikacio.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Eloadas 5 Folyamatok kozotti komunikacio"
-            }
-          },
-          {
-            "id": "3f6474bbf95d88f3",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "School/OPrendszerek/attachments/Eloadas 5 Folyamatok kozotti komunikacio 2025-03-18 15.54.18.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Eloadas 5 Folyamatok kozotti komunikacio 2025-03-18 15.54.18.excalidraw"
-            }
-          },
-          {
-            "id": "547b36de0b6f0190",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "School/OPrendszerek/attachments/Eloadas 5 2025-03-18 14.37.16.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Eloadas 5 2025-03-18 14.37.16.excalidraw"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -229,22 +200,39 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3f6474bbf95d88f3",
+  "active": "a3d476ac9f0488da",
   "lastOpenFiles": [
+    "School/RendszerElmelet Jelek/Elemi jelek.md",
+    "School/RendszerElmelet Jelek/Rendszerek.md",
+    "School/RendszerElmelet Jelek/attachments/Rendszerek 2025-03-19 11.47.11.excalidraw.md",
+    "School/RendszerElmelet Jelek/attachments/Nem linearis rendszer 2025-03-19 11.20.15.excalidraw.md",
+    "School/RendszerElmelet Jelek/attachments/Rendszerek 2025-03-19 11.22.09.excalidraw.md",
+    "School/RendszerElmelet Jelek/Linearis-idovarians renszer.md",
+    "School/RendszerElmelet Jelek/Nem linearis rendszer.md",
+    "School/RendszerElmelet Jelek/attachments/Linearis-idovarians renszer 2025-03-19 11.15.15.excalidraw.md",
+    "School/RendszerElmelet Jelek/attachments/Rendszerek 2025-03-19 10.42.51.excalidraw.md",
+    "School/RendszerElmelet Jelek/attachments/Elemi jelek 2025-03-19 10.09.15.excalidraw.md",
+    "School/Merestechnika/Muveleti erositok.md",
+    "School/Merestechnika/attachments/Villamos Elektronikus es Virtualis Meresek_REAL.pdf",
+    "School/Merestechnika/attachments/Pasted image 20250319084915.png",
+    "School/Merestechnika/Szabalyozhato erositesu mereserositok.md",
+    "School/Merestechnika/Merestechnika alapok.md",
+    "BAttery.md",
+    "School/Merestechnika/attachments/Pasted image 20250319082814.png",
+    "School/Merestechnika/attachments/Pasted image 20250319081954.png",
+    "School/Merestechnika/attachments/Pasted image 20250319081317.png",
+    "School/Merestechnika/attachments/Szabalyozhato erositesu mereserositok 2025-03-19 08.11.41.excalidraw.md",
+    "School/OPrendszerek/Eloadas 5 Folyamatok kozotti komunikacio.md",
+    "School/OPrendszerek/attachments/Eloadas 5 Folyamatok kozotti komunikacio 2025-03-18 15.54.18.excalidraw.md",
     "School/OPrendszerek/attachments/attachments/Pasted Image 20250318161011_610.png",
     "School/OPrendszerek/attachments/attachments/Pasted Image 20250318160801_947.png",
     "School/OPrendszerek/attachments/attachments/Pasted Image 20250318155508_834.png",
-    "School/OPrendszerek/Eloadas 5 Folyamatok kozotti komunikacio.md",
-    "School/OPrendszerek/attachments/Eloadas 5 Folyamatok kozotti komunikacio 2025-03-18 15.54.18.excalidraw.md",
     "School/OPrendszerek/attachments/Eloadas 5 2025-03-18 14.37.16.excalidraw.md",
     "School/OPrendszerek/attachments/attachments/Pasted Image 20250318154939_563.png",
     "School/OPrendszerek/attachments/attachments/Pasted Image 20250318154600_318.png",
     "School/OPrendszerek/attachments/attachments/Pasted Image 20250318154301_323.png",
-    "School/OPrendszerek/attachments/attachments/Pasted Image 20250318153816_861.png",
     "School/OPrendszerek/attachments/Eloadas 5 Folyamatok kozotti komunikacio 2025-03-18 15.20.46.excalidraw.md",
-    "School/OPrendszerek/attachments/Pasted image 20250318152205.png",
     "School/OPrendszerek/attachments/OP_5_6_2020.pdf",
-    "School/OPrendszerek/attachments/attachments/Pasted Image 20250318150116_712.png",
     "School/OPrendszerek/attachments/attachments",
     "School/Programing/DSA/Moho.md",
     "Robotics/TODO ROBOTICS.md",
@@ -255,27 +243,10 @@
     "Robotics/Line Folower.canvas",
     "Robotics/Components and money.canvas",
     "School/Numerikus/Gauss-Seidel es Jacobi iteracios eljarasok.md",
-    "School/Numerikus/attachments/Gauss-Seidel es Jacobi iteracios eljarasok 2025-03-18 09.29.50.excalidraw.md",
-    "School/Numerikus/attachments/Gauss-Seidel es Jacobi iteracios eljarasok 2025-03-18 08.06.03.excalidraw.md",
-    "School/Numerikus/Cholsky felbontas.md",
-    "School/Numerikus/attachments/Banach iteracio 2025-03-17 16.40.34.excalidraw.md",
-    "School/Numerikus/Banach iteracio.md",
-    "School/Numerikus/attachments/Chelsky felbontas 2025-03-13 10.31.34.excalidraw.md",
-    "School/Numerikus/attachments/attachments/Pasted Image 20250313105456_713.png",
-    "School/Numerikus/attachments/attachments/Pasted Image 20250313103752_160.png",
     "School/Numerikus/attachments/attachments",
     "School/Numerikus/attachments",
     "School/Numerikus",
-    "School/attachments/Banach iteracio 2025-03-13 10.14.05.excalidraw.md",
-    "School/OPrendszerek/Uj folyamat nyitasa.md",
-    "School/OPrendszerek/STDIN STDOUT.md",
-    "School/OPrendszerek/Atiranyitas C ben.md",
-    "School/OPrendszerek/attachments/Uj folyamat nyitasa 2025-03-13 08.17.47.excalidraw.md",
-    "School/Merestechnika/Laborok/Ellenalas meres.md",
-    "School/Merestechnika/Laborok/attachments/Ellenalas meres 2025-03-12 15.52.02.excalidraw.md",
-    "School/RendszerElmelet Jelek/Konvolucios = osszeg(szorzas).md",
     "School/RendszerElmelet Jelek/attachments",
-    "School/Merestechnika/attachments/Villamos Elektronikus es Virtualis Meresek_REAL.pdf",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "School/Merestechnika/Laborok/attachments"

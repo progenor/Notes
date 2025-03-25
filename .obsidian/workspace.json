@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d63d33e0a62f8ad0",
+        "id": "8718e0e7db04bb72",
         "type": "tabs",
         "children": [
           {
-            "id": "8b0693ab491eb6a6",
+            "id": "8533001dd41cd4a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/OPrendszerek/Pipe.md",
+                "file": "School/Numerikus/Jacobi es Gauss.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pipe"
+              "title": "Jacobi es Gauss"
             }
           }
         ]
@@ -204,18 +204,31 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8b0693ab491eb6a6",
+  "active": "8533001dd41cd4a4",
   "lastOpenFiles": [
+    "School/Numerikus/attachments/Jacobi es Gauss 2025-03-24 17.48.31.excalidraw.md",
+    "School/Numerikus/Jacobi es Gauss.md",
+    "School/Numerikus/attachments/Pasted image 20250324173520.png",
+    "School/Numerikus/attachments/Jacobi es Gauss 2025-03-24 16.36.25.excalidraw.md",
+    "School/Numerikus/attachments/Jacobi es Gauss 2025-03-24 17.35.05.excalidraw.md",
+    "School/Merestechnika/attachments/Villamos Elektronikus es Virtualis Meresek_REAL.pdf",
+    "School/Merestechnika/ADC  DAC converters.md",
+    "School/Merestechnika/attachments/Pasted image 20250324111730.png",
+    "School/Merestechnika/attachments/Pasted image 20250324110906.png",
+    "School/Merestechnika/attachments/Pasted image 20250324104651.png",
+    "School/Merestechnika/attachments/Pasted image 20250324103744.png",
+    "School/Merestechnika/attachments/Pasted image 20250324102639.png",
+    "School/Merestechnika/Mintavetelezo aramkorok.md",
+    "School/Merestechnika/Merestechnika alapok.md",
+    "School/OPrendszerek/Pipe.md",
     "School/OPrendszerek/attachments/Pasted image 20250320081737.png",
     "School/OPrendszerek/Eloadas 5 Folyamatok kozotti komunikacio.md",
-    "School/OPrendszerek/Pipe.md",
     "School/RendszerElmelet Jelek/Elemi jelek.md",
     "School/Merestechnika/Laborok/Lab 5 Feszültségérzékelők a méréstechnikában**.md",
     "School/Merestechnika/Laborok/attachments/Lab 5 Feszültségérzékelők a méréstechnikában** 2025-03-19 16.50.53.excalidraw.md",
     "School/Merestechnika/Laborok/Muveleti erositok jegyzet.md",
     "School/Merestechnika/Laborok/attachments/Muveleti erositok jegyzet 2025-03-19 17.50.40.excalidraw.md",
     "School/Merestechnika/Muveleti erositok.md",
-    "School/Merestechnika/attachments/Villamos Elektronikus es Virtualis Meresek_REAL.pdf",
     "School/Merestechnika/Laborok/Labor 6  Egységes jelátalakítók.md",
     "School/Merestechnika/Laborok/attachments/attachments/Pasted Image 20250319173652_145.png",
     "School/Merestechnika/Laborok/attachments/attachments",
@@ -223,7 +236,6 @@
     "School/Merestechnika/Laborok/attachments/muveletierosito.pdf",
     "School/Merestechnika/Laborok/attachments/Pasted image 20250319131940.png",
     "School/Merestechnika/Laborok/attachments/Pasted image 20250319131927.png",
-    "School/Merestechnika/Laborok/attachments/Pasted image 20250319131907.png",
     "School/RendszerElmelet Jelek/Rendszerek.md",
     "School/RendszerElmelet Jelek/attachments/Rendszerek 2025-03-19 11.47.11.excalidraw.md",
     "School/RendszerElmelet Jelek/attachments/Nem linearis rendszer 2025-03-19 11.20.15.excalidraw.md",
@@ -233,18 +245,6 @@
     "School/RendszerElmelet Jelek/attachments/Linearis-idovarians renszer 2025-03-19 11.15.15.excalidraw.md",
     "School/RendszerElmelet Jelek/attachments/Rendszerek 2025-03-19 10.42.51.excalidraw.md",
     "School/RendszerElmelet Jelek/attachments/Elemi jelek 2025-03-19 10.09.15.excalidraw.md",
-    "School/Merestechnika/attachments/Pasted image 20250319084915.png",
-    "School/Merestechnika/Szabalyozhato erositesu mereserositok.md",
-    "School/Merestechnika/Merestechnika alapok.md",
-    "BAttery.md",
-    "School/Merestechnika/attachments/Pasted image 20250319082814.png",
-    "School/Merestechnika/attachments/Pasted image 20250319081954.png",
-    "School/Merestechnika/attachments/Pasted image 20250319081317.png",
-    "School/Merestechnika/attachments/Szabalyozhato erositesu mereserositok 2025-03-19 08.11.41.excalidraw.md",
-    "School/OPrendszerek/attachments/Eloadas 5 Folyamatok kozotti komunikacio 2025-03-18 15.54.18.excalidraw.md",
-    "School/OPrendszerek/attachments/attachments/Pasted Image 20250318161011_610.png",
-    "School/OPrendszerek/attachments/attachments/Pasted Image 20250318160801_947.png",
-    "School/OPrendszerek/attachments/Eloadas 5 2025-03-18 14.37.16.excalidraw.md",
     "School/OPrendszerek/attachments/OP_5_6_2020.pdf",
     "School/OPrendszerek/attachments/attachments",
     "Robotics/Line Folower.canvas",

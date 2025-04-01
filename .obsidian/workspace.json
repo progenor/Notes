@@ -4,65 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "d0b9e1eccc743bee",
+        "id": "71f278fbf58590ea",
         "type": "tabs",
         "children": [
           {
-            "id": "a3b898a93ff676a8",
+            "id": "ddbd76a41fa2ac97",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/RendszerElmelet Jelek/Rendszerek.md",
+                "file": "School/Numerikus/Nem linearis egyenletek numerikus megoldasa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rendszerek"
+              "title": "Nem linearis egyenletek numerikus megoldasa"
             }
           },
           {
-            "id": "a97ebc55b8e3f208",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/RendszerElmelet Jelek/LTI Rendszerek modellezese Laplace transzformacio.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LTI Rendszerek modellezese Laplace transzformacio"
-            }
-          },
-          {
-            "id": "e57e652e35f97b92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/RendszerElmelet Jelek/Gyakorlatban elofordulo tagok leirasa.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Gyakorlatban elofordulo tagok leirasa"
-            }
-          },
-          {
-            "id": "f70e3cc5a95e4d90",
+            "id": "f6787f0b2cf13677",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "School/RendszerElmelet Jelek/attachments/Gyakorlatban elofordulo tagok leirasa 2025-03-26 11.18.10.excalidraw.md"
+                "file": "School/Numerikus/attachments/Nem linearis egyenletek numerikus megoldasa 2025-04-01 09.12.40.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Gyakorlatban elofordulo tagok leirasa 2025-03-26 11.18.10.excalidraw"
+              "title": "Nem linearis egyenletek numerikus megoldasa 2025-04-01 09.12.40.excalidraw"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -245,18 +217,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f70e3cc5a95e4d90",
+  "active": "f6787f0b2cf13677",
   "lastOpenFiles": [
+    "School/Numerikus/Nem linearis egyenletek numerikus megoldasa.md",
+    "School/Numerikus/attachments/Nem linearis egyenletek numerikus megoldasa 2025-04-01 09.12.40.excalidraw.md",
+    "School/Numerikus/attachments/Nem linearis egyenletek numerikus megoldasa 2025-04-01 08.08.00.excalidraw.md",
+    "School/Numerikus/Linearis egyenletrendszerek megoldasa varacios modszerekkel.md",
+    "School/OPrendszerek/Fscanf Ferror Fdopen.md",
+    "School/RendszerElmelet Jelek/Rendszerek.md",
     "School/RendszerElmelet Jelek/LTI Rendszerek modellezese Laplace transzformacio.md",
-    "School/RendszerElmelet Jelek/attachments/Gyakorlatban elofordulo tagok leirasa 2025-03-26 11.18.10.excalidraw.md",
     "School/RendszerElmelet Jelek/Gyakorlatban elofordulo tagok leirasa.md",
+    "School/RendszerElmelet Jelek/attachments/Gyakorlatban elofordulo tagok leirasa 2025-03-26 11.18.10.excalidraw.md",
     "School/RendszerElmelet Jelek/Atviteli fugveny Tranfer Function.md",
     "School/RendszerElmelet Jelek/attachments/Atviteli fugveny Tranfer Function 2025-03-26 10.23.51.excalidraw.md",
     "School/RendszerElmelet Jelek/attachments/Atviteli fugveny 2025-03-26 09.41.29.excalidraw.md",
     "School/RendszerElmelet Jelek/attachments/LTI Rendszerek modellezese Laplace transzformacio 2025-03-26 08.09.47.excalidraw.md",
-    "School/RendszerElmelet Jelek/Rendszerek.md",
     "School/Numerikus/attachments/Linearis egyenletrendszerek megoldasa varacios modszerekkel 2025-03-25 08.13.58.excalidraw.md",
-    "School/Numerikus/Linearis egyenletrendszerek megoldasa varacios modszerekkel.md",
     "School/Numerikus/attachments/Linearis egyenletrendszerek megoldasa varacios modszerekkel 2025-03-25 08.11.37.excalidraw.md",
     "School/Numerikus/Jacobi es Gauss.md",
     "School/Numerikus/attachments/Jacobi es Gauss 2025-03-24 17.48.31.excalidraw.md",
@@ -277,10 +253,6 @@
     "School/OPrendszerek/Eloadas 5 Folyamatok kozotti komunikacio.md",
     "School/RendszerElmelet Jelek/Elemi jelek.md",
     "School/Merestechnika/Laborok/Lab 5 Feszültségérzékelők a méréstechnikában**.md",
-    "School/Merestechnika/Laborok/attachments/Lab 5 Feszültségérzékelők a méréstechnikában** 2025-03-19 16.50.53.excalidraw.md",
-    "School/Merestechnika/Laborok/Muveleti erositok jegyzet.md",
-    "School/Merestechnika/Laborok/attachments/Muveleti erositok jegyzet 2025-03-19 17.50.40.excalidraw.md",
-    "School/Merestechnika/Muveleti erositok.md",
     "School/Merestechnika/Laborok/attachments/attachments/Pasted Image 20250319173652_145.png",
     "School/Merestechnika/Laborok/attachments/attachments",
     "School/Merestechnika/Laborok/attachments/muveletierosito.pdf",

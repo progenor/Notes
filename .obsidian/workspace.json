@@ -4,37 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "71f278fbf58590ea",
+        "id": "59088436bd54c412",
         "type": "tabs",
         "children": [
           {
-            "id": "ddbd76a41fa2ac97",
+            "id": "0d71a67aa913d6f3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "School/Numerikus/Nem linearis egyenletek numerikus megoldasa.md",
-                "mode": "source",
-                "source": false
+                "file": "School/Merestechnika/attachments/Villamos Elektronikus es Virtualis Meresek_REAL.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Nem linearis egyenletek numerikus megoldasa"
-            }
-          },
-          {
-            "id": "f6787f0b2cf13677",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "School/Numerikus/attachments/Nem linearis egyenletek numerikus megoldasa 2025-04-01 09.12.40.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Nem linearis egyenletek numerikus megoldasa 2025-04-01 09.12.40.excalidraw"
+              "icon": "lucide-file-text",
+              "title": "Villamos Elektronikus es Virtualis Meresek_REAL"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -217,9 +202,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f6787f0b2cf13677",
+  "active": "0d71a67aa913d6f3",
   "lastOpenFiles": [
+    "School/Merestechnika/attachments/Untitled.md",
+    "School/Merestechnika/attachments/attachments/Untitled 2025-04-02 11.33.02.excalidraw.md",
+    "School/Merestechnika/attachments/attachments",
+    "School/Merestechnika/attachments/Villamos Elektronikus es Virtualis Meresek_REAL.pdf",
+    "School/Merestechnika/Laborok/Lab5 HaziFeladat.md",
+    "School/Merestechnika/Laborok/attachments/Lab5 HaziFeladat 2025-04-02 07.41.22.excalidraw.md",
+    "School/Merestechnika/Laborok/attachments/attachments/Pasted Image 20250402100735_244.png",
+    "School/Merestechnika/Laborok/attachments/attachments/Pasted Image 20250402100004_103.png",
+    "School/Merestechnika/ADC  DAC converters.md",
+    "School/Merestechnika/attachments/Pasted image 20250402090952.png",
+    "School/Merestechnika/attachments/annotated_Pasted image 20250402081838.md",
+    "School/Merestechnika/attachments/Pasted image 20250402081838.png",
+    "School/Merestechnika/attachments/Pasted image 20250402081836.png",
     "School/Numerikus/Nem linearis egyenletek numerikus megoldasa.md",
+    "School/Merestechnika/Laborok/attachments/attachments/Pasted Image 20250402074313_925.png",
+    "School/Merestechnika/Laborok/attachments/attachments/Pasted Image 20250402074227_678.png",
     "School/Numerikus/attachments/Nem linearis egyenletek numerikus megoldasa 2025-04-01 09.12.40.excalidraw.md",
     "School/Numerikus/attachments/Nem linearis egyenletek numerikus megoldasa 2025-04-01 08.08.00.excalidraw.md",
     "School/Numerikus/Linearis egyenletrendszerek megoldasa varacios modszerekkel.md",
@@ -239,25 +239,11 @@
     "School/Numerikus/attachments/Pasted image 20250324173520.png",
     "School/Numerikus/attachments/Jacobi es Gauss 2025-03-24 16.36.25.excalidraw.md",
     "School/Numerikus/attachments/Jacobi es Gauss 2025-03-24 17.35.05.excalidraw.md",
-    "School/Merestechnika/attachments/Villamos Elektronikus es Virtualis Meresek_REAL.pdf",
-    "School/Merestechnika/ADC  DAC converters.md",
     "School/Merestechnika/attachments/Pasted image 20250324111730.png",
     "School/Merestechnika/attachments/Pasted image 20250324110906.png",
-    "School/Merestechnika/attachments/Pasted image 20250324104651.png",
-    "School/Merestechnika/attachments/Pasted image 20250324103744.png",
-    "School/Merestechnika/attachments/Pasted image 20250324102639.png",
     "School/Merestechnika/Mintavetelezo aramkorok.md",
-    "School/Merestechnika/Merestechnika alapok.md",
-    "School/OPrendszerek/Pipe.md",
-    "School/OPrendszerek/attachments/Pasted image 20250320081737.png",
-    "School/OPrendszerek/Eloadas 5 Folyamatok kozotti komunikacio.md",
-    "School/RendszerElmelet Jelek/Elemi jelek.md",
-    "School/Merestechnika/Laborok/Lab 5 Feszültségérzékelők a méréstechnikában**.md",
-    "School/Merestechnika/Laborok/attachments/attachments/Pasted Image 20250319173652_145.png",
     "School/Merestechnika/Laborok/attachments/attachments",
     "School/Merestechnika/Laborok/attachments/muveletierosito.pdf",
-    "School/Merestechnika/Laborok/attachments/Pasted image 20250319131940.png",
-    "School/Merestechnika/Laborok/attachments/Pasted image 20250319131927.png",
     "School/OPrendszerek/attachments/OP_5_6_2020.pdf",
     "School/OPrendszerek/attachments/attachments",
     "Robotics/Line Folower.canvas",
@@ -265,7 +251,6 @@
     "School/Numerikus/attachments/attachments",
     "School/Numerikus/attachments",
     "School/Numerikus",
-    "School/RendszerElmelet Jelek/attachments",
-    "Excalidraw/Scripts/Downloaded"
+    "School/RendszerElmelet Jelek/attachments"
   ]
 }

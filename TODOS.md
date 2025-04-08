@@ -6,8 +6,8 @@ kanban-plugin: basic
 
 ## #todo TODO
 
-- [ ] lefko
-- [ ] matlab
+- [ ] pcb- nel a tekercset kicserleni nagyobbra
+- [ ] pico pinekre
 
 
 ## in progress #todo
@@ -18,6 +18,8 @@ kanban-plugin: basic
 ## completed
 
 **Complete**
+- [x] matlab
+- [x] lefko
 - [x] extra dsa
 
 

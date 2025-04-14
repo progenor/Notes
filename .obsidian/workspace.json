@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "897981ba90449d46",
+        "id": "a5acf7d4ac9df7d2",
         "type": "tabs",
         "children": [
           {
-            "id": "ba8006b3b6cd778f",
+            "id": "b0c781b7b6b5f997",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "School/Rendszerelmelet/Lab 5 Frekvencia Bode Nyquist.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Lab 5 Frekvencia Bode Nyquist"
             }
           }
         ]
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2af3991c09b80762",
@@ -187,8 +192,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ba8006b3b6cd778f",
+  "active": "b0c781b7b6b5f997",
   "lastOpenFiles": [
+    "School/Rendszerelmelet/attachments/Pasted image 20250414083631.png",
+    "School/Rendszerelmelet/attachments/Pasted image 20250414082312.png",
+    "School/Rendszerelmelet/Lab 4 Rendszerek.md",
+    "School/Rendszerelmelet/Lab 5 Frekvencia Bode Nyquist.md",
+    "School/Rendszerelmelet/attachments/Lab 4 Rendszerek 2025-03-31 11.15.51.excalidraw.md",
+    "Untitled 1.md",
+    "School/Rendszerelmelet/attachments",
+    "School/Rendszerelmelet",
+    "School/attachments/Lab3 Konvolucio 2025-03-30 21.36.08.excalidraw.md",
+    "School/Rendszerelmelet/Lab3 Konvolucio.md",
     "School/Database/Vizsga Keszulodes.md",
     "School/Database/Rendorseg.md",
     "School/Database/SQL.md",
@@ -208,13 +223,6 @@
     "School/architektura/Utasitas Keszlet felepitese.md",
     "School/architektura/Utasitasok felepitesee.md",
     "School/architektura/Vezerloegyseg.md",
-    "School/architektura/Hatszintu szamitogep felepitese.md",
-    "School/architektura/A CPU VHDL megvalositasa.md",
-    "School/architektura/Bevezeto Architektura.md",
-    "School/architektura/Microarchitektura tombvazlat.md",
-    "School/architektura/CPU tervezes.md",
-    "School/architektura/Cimforditas.md",
-    "School/architektura/Egy utasitas lefutasa.md",
     "School/Database/attachments/Home Monitor.svg",
     "School/Database/attachments/DatabaseDocument.pdf",
     "School/architektura/attachments/Pasted image 20241007084611.png",

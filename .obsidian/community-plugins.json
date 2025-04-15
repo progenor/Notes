@@ -10,7 +10,6 @@
   "obsidian-mind-map",
   "obsidian-icon-folder",
   "obsidian-checklist-plugin",
-  "obsidian-textgenerator-plugin",
   "mathlive",
   "highlightr-plugin",
   "obsidian-export-image",
@@ -20,6 +19,5 @@
   "quick-latex",
   "obsidian-topic-linking",
   "obsidian-latex-suite",
-  "obsidian-tikzjax",
-  "obsidian-annotator"
+  "obsidian-tikzjax"
 ]

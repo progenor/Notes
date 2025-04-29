@@ -4,53 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "3b0ef9d5121d0646",
+        "id": "ff635f864793633f",
         "type": "tabs",
         "children": [
           {
-            "id": "ce50bff4dd4e9de8",
+            "id": "a48c16aa754be74b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/OPrendszerek/Tombok.md",
+                "file": "School/Numerikus/Interpolacios feladatok.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tombok"
+              "title": "Interpolacios feladatok"
             }
           },
           {
-            "id": "ad09bd60e16f72b0",
+            "id": "8badc102d94f6ce8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "School/OPrendszerek/Memoria Kezeles.md",
-                "mode": "source",
-                "source": false
+                "file": "School/Numerikus/attachments/Interpolacios feladatok 2025-04-29 08.11.59.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Memoria Kezeles"
-            }
-          },
-          {
-            "id": "0a5d478156445f96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/OPrendszerek/IO eszkozok.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "IO eszkozok"
+              "icon": "excalidraw-icon",
+              "title": "Interpolacios feladatok 2025-04-29 08.11.59.excalidraw"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,9 +189,19 @@
               "icon": "checkmark",
               "title": "Todo List"
             }
+          },
+          {
+            "id": "b584cf79bd09b2e6",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -231,13 +225,38 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0a5d478156445f96",
+  "active": "8badc102d94f6ce8",
   "lastOpenFiles": [
-    "School/OPrendszerek/Memoria Kezeles.md",
-    "School/OPrendszerek/IO eszkozok.md",
-    "School/OPrendszerek/attachments/Memoria Kezeles 2025-04-15 15.51.40.excalidraw.md",
+    "School/Numerikus/Interpolacios feladatok.md",
+    "School/Numerikus/attachments/Interpolacios feladatok 2025-04-29 08.11.59.excalidraw.md",
+    "Robotics/You fucking missed these you blithering idiot (aka bevasarlolista).md",
+    "School/Numerikus/Nem linearis egyenletek numerikus megoldasa.md",
+    "School/Numerikus/attachments/Feladatok 2025-04-28 16.42.18.excalidraw.md",
+    "School/Numerikus/Feladatok.md",
+    "School/Numerikus/Linearis egyenletrendszerek megoldasa varacios modszerekkel.md",
+    "School/Numerikus/Cholsky felbontas.md",
+    "School/Numerikus/Banach iteracio.md",
+    "School/Numerikus/Untitled 1.md",
+    "School/RendszerElmelet Jelek/LTI Rendszerek modellezese Laplace transzformacio.md",
+    "School/RendszerElmelet Jelek/FrekvenciaTartomanybeli vizsgalat (frekvencia fugveny).md",
+    "School/RendszerElmelet Jelek/Bode diagram.md",
+    "School/RendszerElmelet Jelek/attachments/Bode diagram 2025-04-16 11.06.57.excalidraw.md",
+    "School/RendszerElmelet Jelek/attachments/Amplitudo-fazis jelleggorbe Nyquist digram 2025-04-16 10.41.57.excalidraw.md",
+    "School/RendszerElmelet Jelek/attachments/FrekvenciaTartomanybeli vizsgalat (frekvencia fugveny) 2025-04-16 10.20.39.excalidraw.md",
+    "School/RendszerElmelet Jelek/Amplitudo-fazis jelleggorbe Nyquist digram.md",
+    "School/RendszerElmelet Jelek/Masodrendu aranyos tag.md",
+    "School/RendszerElmelet Jelek/attachments/Masodrendu aranyos tag 2025-04-16 10.10.43.excalidraw.md",
+    "School/RendszerElmelet Jelek/Rendszerek.md",
+    "School/RendszerElmelet Jelek/Bevezetes.md",
+    "School/RendszerElmelet Jelek/Atviteli fugveny Tranfer Function.md",
+    "School/RendszerElmelet Jelek/Untitled 1.md",
+    "School/RendszerElmelet Jelek/Untitled.md",
+    "FunStuff/SimRig.canvas",
+    "Gaspar/Szenyviz.md",
+    "FunStuff",
+    "BAttery.md",
+    "Gaspar",
     "School/OPrendszerek/attachments/attachments/Pasted Image 20250415155202_502.png",
-    "School/OPrendszerek/attachments/Memoria Kezeles 2025-04-15 14.53.30.excalidraw.md",
     "School/OPrendszerek/attachments/attachments/Pasted Image 20250415151637_494.png",
     "School/OPrendszerek/attachments/attachments/Pasted Image 20250415151528_669.png",
     "School/OPrendszerek/attachments/attachments/Pasted Image 20250415150820_264.png",
@@ -246,30 +265,8 @@
     "School/OPrendszerek/attachments/attachments/Pasted Image 20250415145820_323.png",
     "School/OPrendszerek/attachments/attachments/Pasted Image 20250415145742_166.png",
     "School/OPrendszerek/attachments/Pasted image 20250415144618.png",
-    "School/OPrendszerek/Tombok.md",
-    "School/Numerikus/Nem linearis egyenletek numerikus megoldasa.md",
-    "School/Numerikus/attachments/Nem linearis egyenletek numerikus megoldasa 2025-04-15 08.21.19.excalidraw.md",
-    "School/Numerikus/attachments/Nem linearis egyenletek numerikus megoldasa 2025-04-08 08.09.36.excalidraw.md",
-    "School/Numerikus/Linearis egyenletrendszerek megoldasa varacios modszerekkel.md",
-    "School/Numerikus/Untitled 1.md",
-    "School/Numerikus/Untitled.md",
-    "School/Numerikus/Cholsky felbontas.md",
-    "School/Numerikus/Gauss-Seidel es Jacobi iteracios eljarasok.md",
-    "School/Numerikus/Banach iteracio.md",
-    "School/RendszerElmelet Jelek/Atviteli fugveny Tranfer Function.md",
-    "School/RendszerElmelet Jelek/attachments/Atviteli fugveny 2025-03-26 09.41.29.excalidraw.md",
-    "School/RendszerElmelet Jelek/Untitled.md",
-    "School/OPrendszerek/Monitorok.md",
-    "School/OPrendszerek/Klasszikus IPC problemak.md",
     "School/OPrendszerek/attachments/Pasted image 20250408150343.png",
-    "School/OPrendszerek/attachments/annotated_Pasted image 20250408145509.md",
-    "School/OPrendszerek/attachments/annotated_Pasted image 20250408135805.md",
-    "School/OPrendszerek/Szemafork.md",
-    "School/OPrendszerek/attachments/annotated_Pasted image 20250408133411.md",
-    "School/OPrendszerek/attachments/annotated_Pasted image 20250408130023.md",
     "School/OPrendszerek/attachments/OP_5_6.pdf",
-    "School/OPrendszerek/Szemaforok.md",
-    "School/Numerikus/attachments/Nem linearis egyenletek numerikus megoldasa 2025-04-01 08.08.00.excalidraw.md",
     "School/Merestechnika/attachments/Villamos Elektronikus es Virtualis Meresek_REAL.pdf",
     "School/Merestechnika/attachments/attachments",
     "School/Merestechnika/Laborok/attachments/attachments",
@@ -278,8 +275,6 @@
     "School/OPrendszerek/attachments/attachments",
     "Robotics/Line Folower.canvas",
     "Robotics/Components and money.canvas",
-    "School/Numerikus/attachments/attachments",
-    "School/Numerikus/attachments",
-    "School/Numerikus"
+    "School/Numerikus/attachments/attachments"
   ]
 }

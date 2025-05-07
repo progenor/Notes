@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "ff635f864793633f",
+        "id": "a63628a1cdca8d5f",
         "type": "tabs",
         "children": [
           {
-            "id": "a48c16aa754be74b",
+            "id": "8d71be9c7985f453",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/Numerikus/Interpolacios feladatok.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Interpolacios feladatok"
-            }
-          },
-          {
-            "id": "8badc102d94f6ce8",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "School/Numerikus/attachments/Interpolacios feladatok 2025-04-29 08.11.59.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Interpolacios feladatok 2025-04-29 08.11.59.excalidraw"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.5086555480957,
-    "collapsed": true
+    "width": 209.5086555480957
   },
   "right": {
     "id": "f12bdc532e83adb5",
@@ -225,11 +207,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8badc102d94f6ce8",
+  "active": "8d71be9c7985f453",
   "lastOpenFiles": [
+    "School/architektura/Microarchitektura tombvazlat.md",
+    "School/OPrendszerek/attachments/IO adatatvitel 2025-05-06 12.43.00.excalidraw.md",
+    "School/OPrendszerek/IO adatatvitel.md",
+    "School/RendszerElmelet Jelek/Kezi kozelito Bode diagram.md",
+    "Robotics/You fucking missed these you blithering idiot (aka bevasarlolista).md",
+    "School/RendszerElmelet Jelek/attachments/Kezi kozelito Bode diagram 2025-04-30 10.09.14.excalidraw.md",
+    "School/RendszerElmelet Jelek/Bode diagram.md",
+    "School/RendszerElmelet Jelek/FrekvenciaTartomanybeli vizsgalat (frekvencia fugveny).md",
+    "School/RendszerElmelet Jelek/LTI Rendszerek modellezese Laplace transzformacio.md",
+    "School/RendszerElmelet Jelek/Rendszerek.md",
     "School/Numerikus/Interpolacios feladatok.md",
     "School/Numerikus/attachments/Interpolacios feladatok 2025-04-29 08.11.59.excalidraw.md",
-    "Robotics/You fucking missed these you blithering idiot (aka bevasarlolista).md",
     "School/Numerikus/Nem linearis egyenletek numerikus megoldasa.md",
     "School/Numerikus/attachments/Feladatok 2025-04-28 16.42.18.excalidraw.md",
     "School/Numerikus/Feladatok.md",
@@ -237,24 +228,15 @@
     "School/Numerikus/Cholsky felbontas.md",
     "School/Numerikus/Banach iteracio.md",
     "School/Numerikus/Untitled 1.md",
-    "School/RendszerElmelet Jelek/LTI Rendszerek modellezese Laplace transzformacio.md",
-    "School/RendszerElmelet Jelek/FrekvenciaTartomanybeli vizsgalat (frekvencia fugveny).md",
-    "School/RendszerElmelet Jelek/Bode diagram.md",
     "School/RendszerElmelet Jelek/attachments/Bode diagram 2025-04-16 11.06.57.excalidraw.md",
     "School/RendszerElmelet Jelek/attachments/Amplitudo-fazis jelleggorbe Nyquist digram 2025-04-16 10.41.57.excalidraw.md",
     "School/RendszerElmelet Jelek/attachments/FrekvenciaTartomanybeli vizsgalat (frekvencia fugveny) 2025-04-16 10.20.39.excalidraw.md",
     "School/RendszerElmelet Jelek/Amplitudo-fazis jelleggorbe Nyquist digram.md",
     "School/RendszerElmelet Jelek/Masodrendu aranyos tag.md",
     "School/RendszerElmelet Jelek/attachments/Masodrendu aranyos tag 2025-04-16 10.10.43.excalidraw.md",
-    "School/RendszerElmelet Jelek/Rendszerek.md",
     "School/RendszerElmelet Jelek/Bevezetes.md",
-    "School/RendszerElmelet Jelek/Atviteli fugveny Tranfer Function.md",
-    "School/RendszerElmelet Jelek/Untitled 1.md",
-    "School/RendszerElmelet Jelek/Untitled.md",
     "FunStuff/SimRig.canvas",
-    "Gaspar/Szenyviz.md",
     "FunStuff",
-    "BAttery.md",
     "Gaspar",
     "School/OPrendszerek/attachments/attachments/Pasted Image 20250415155202_502.png",
     "School/OPrendszerek/attachments/attachments/Pasted Image 20250415151637_494.png",

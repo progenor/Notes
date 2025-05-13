@@ -4,24 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "3f74e8b936837f3c",
+        "id": "4a035ddb9bb832d1",
         "type": "tabs",
         "children": [
           {
-            "id": "1b93068cbae5450d",
+            "id": "51bb820f73259399",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Robotics/You fucking missed these you blithering idiot (aka bevasarlolista).md",
+                "file": "School/Numerikus/Interpolacios feladatok.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "You fucking missed these you blithering idiot (aka bevasarlolista)"
+              "title": "Interpolacios feladatok"
+            }
+          },
+          {
+            "id": "460389836d9f19de",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "School/Numerikus/attachments/Interpolacios feladatok 2025-05-13 08.08.21.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Interpolacios feladatok 2025-05-13 08.08.21.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.5086555480957
+    "width": 209.5086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "f12bdc532e83adb5",
@@ -211,8 +225,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1b93068cbae5450d",
+  "active": "460389836d9f19de",
   "lastOpenFiles": [
+    "School/Numerikus/Interpolacios feladatok.md",
+    "School/Numerikus/attachments/Interpolacios feladatok 2025-05-13 08.08.21.excalidraw.md",
+    "Robotics/You fucking missed these you blithering idiot (aka bevasarlolista).md",
     "School/RendszerElmelet Jelek/Linearis Rendszerek Stabilitasa.md",
     "School/RendszerElmelet Jelek/attachments/Linearis Rendszerek Stabilitasa 2025-05-07 11.38.33.excalidraw.md",
     "School/Analog/Analog Vizsga Oszzefoglalo.md",
@@ -223,12 +240,10 @@
     "School/OPrendszerek/attachments/IO adatatvitel 2025-05-06 12.43.00.excalidraw.md",
     "School/OPrendszerek/IO adatatvitel.md",
     "School/RendszerElmelet Jelek/Kezi kozelito Bode diagram.md",
-    "Robotics/You fucking missed these you blithering idiot (aka bevasarlolista).md",
     "School/RendszerElmelet Jelek/attachments/Kezi kozelito Bode diagram 2025-04-30 10.09.14.excalidraw.md",
     "School/RendszerElmelet Jelek/FrekvenciaTartomanybeli vizsgalat (frekvencia fugveny).md",
     "School/RendszerElmelet Jelek/LTI Rendszerek modellezese Laplace transzformacio.md",
     "School/RendszerElmelet Jelek/Rendszerek.md",
-    "School/Numerikus/Interpolacios feladatok.md",
     "School/Numerikus/attachments/Interpolacios feladatok 2025-04-29 08.11.59.excalidraw.md",
     "School/Numerikus/Nem linearis egyenletek numerikus megoldasa.md",
     "School/Numerikus/attachments/Feladatok 2025-04-28 16.42.18.excalidraw.md",
@@ -238,7 +253,6 @@
     "School/Numerikus/Banach iteracio.md",
     "School/Numerikus/Untitled 1.md",
     "School/RendszerElmelet Jelek/attachments/Bode diagram 2025-04-16 11.06.57.excalidraw.md",
-    "School/RendszerElmelet Jelek/attachments/Amplitudo-fazis jelleggorbe Nyquist digram 2025-04-16 10.41.57.excalidraw.md",
     "FunStuff/SimRig.canvas",
     "FunStuff",
     "Gaspar",

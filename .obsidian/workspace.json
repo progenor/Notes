@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a63628a1cdca8d5f",
+        "id": "3f74e8b936837f3c",
         "type": "tabs",
         "children": [
           {
-            "id": "8d71be9c7985f453",
+            "id": "1b93068cbae5450d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Robotics/You fucking missed these you blithering idiot (aka bevasarlolista).md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "You fucking missed these you blithering idiot (aka bevasarlolista)"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "holder",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -207,15 +211,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8d71be9c7985f453",
+  "active": "1b93068cbae5450d",
   "lastOpenFiles": [
+    "School/RendszerElmelet Jelek/Linearis Rendszerek Stabilitasa.md",
+    "School/RendszerElmelet Jelek/attachments/Linearis Rendszerek Stabilitasa 2025-05-07 11.38.33.excalidraw.md",
+    "School/Analog/Analog Vizsga Oszzefoglalo.md",
+    "School/RendszerElmelet Jelek/attachments/Linearis Rendszerek Stabilitasa 2025-05-07 11.07.56.excalidraw.md",
+    "School/RendszerElmelet Jelek/attachments/Linearis Rendszerek Stabilitasa 2025-05-07 10.10.17.excalidraw.md",
+    "School/RendszerElmelet Jelek/Bode diagram.md",
     "School/architektura/Microarchitektura tombvazlat.md",
     "School/OPrendszerek/attachments/IO adatatvitel 2025-05-06 12.43.00.excalidraw.md",
     "School/OPrendszerek/IO adatatvitel.md",
     "School/RendszerElmelet Jelek/Kezi kozelito Bode diagram.md",
     "Robotics/You fucking missed these you blithering idiot (aka bevasarlolista).md",
     "School/RendszerElmelet Jelek/attachments/Kezi kozelito Bode diagram 2025-04-30 10.09.14.excalidraw.md",
-    "School/RendszerElmelet Jelek/Bode diagram.md",
     "School/RendszerElmelet Jelek/FrekvenciaTartomanybeli vizsgalat (frekvencia fugveny).md",
     "School/RendszerElmelet Jelek/LTI Rendszerek modellezese Laplace transzformacio.md",
     "School/RendszerElmelet Jelek/Rendszerek.md",
@@ -230,11 +239,6 @@
     "School/Numerikus/Untitled 1.md",
     "School/RendszerElmelet Jelek/attachments/Bode diagram 2025-04-16 11.06.57.excalidraw.md",
     "School/RendszerElmelet Jelek/attachments/Amplitudo-fazis jelleggorbe Nyquist digram 2025-04-16 10.41.57.excalidraw.md",
-    "School/RendszerElmelet Jelek/attachments/FrekvenciaTartomanybeli vizsgalat (frekvencia fugveny) 2025-04-16 10.20.39.excalidraw.md",
-    "School/RendszerElmelet Jelek/Amplitudo-fazis jelleggorbe Nyquist digram.md",
-    "School/RendszerElmelet Jelek/Masodrendu aranyos tag.md",
-    "School/RendszerElmelet Jelek/attachments/Masodrendu aranyos tag 2025-04-16 10.10.43.excalidraw.md",
-    "School/RendszerElmelet Jelek/Bevezetes.md",
     "FunStuff/SimRig.canvas",
     "FunStuff",
     "Gaspar",

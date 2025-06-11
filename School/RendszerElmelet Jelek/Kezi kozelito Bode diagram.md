@@ -1,0 +1,1 @@
+![[Kezi kozelito Bode diagram 2025-04-30 10.09.14.excalidraw]]

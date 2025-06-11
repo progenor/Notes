@@ -1,0 +1,1 @@
+![[Lab5 HaziFeladat 2025-04-02 07.41.22.excalidraw|1000]]

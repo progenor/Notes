@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0ba952c9fa8499e3",
+        "id": "711d0621efe122fc",
         "type": "tabs",
         "children": [
           {
-            "id": "4519073d4e20ba1f",
+            "id": "834d18ea94d44105",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/OPrendszerek/Untitled.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "New tab"
             }
           }
         ]
@@ -207,11 +203,13 @@
       "publish:Publish changes...": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4519073d4e20ba1f",
+  "active": "834d18ea94d44105",
   "lastOpenFiles": [
+    "School/OPrendszerek/Untitled.md",
     "School/OPrendszerek/UNIX Tortenelem.md",
     "School/OPrendszerek/unix feleipitese.md",
     "School/OPrendszerek/Uj folyamat nyitasa.md",
@@ -237,7 +235,6 @@
     "School/OPrendszerek/Fscanf Ferror Fdopen.md",
     "School/OPrendszerek/File system in linux.md",
     "School/OPrendszerek/File actions in C.md",
-    "School/OPrendszerek/Env Varialbles in C.md",
     "FunStuff/SimRig.canvas",
     "FunStuff",
     "Gaspar",

@@ -1,0 +1,1 @@
+![[Masodrendu aranyos tag 2025-04-16 10.10.43.excalidraw|1000]]

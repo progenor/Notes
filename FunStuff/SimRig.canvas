@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"11c6e3146ede7ab7","x":120,"y":-900,"width":250,"height":60,"type":"text","text":"PEDALS"},
+		{"id":"24488e0a8ce02527","x":580,"y":-1160,"width":250,"height":60,"type":"text","text":"SimRig"},
+		{"id":"c229ec7891578c3c","x":920,"y":-900,"width":250,"height":60,"type":"text","text":"Steering Wheel"},
+		{"id":"d9217b7e07fa2645","x":740,"y":-600,"width":400,"height":400,"type":"link","url":"https://www.olx.ro/d/oferta/motor-brushless-low-rpm-36v-generator-eoliana-350w-IDfYMTa.html?reason=observed_ad"},
+		{"id":"5a3b368f2e385721","x":-600,"y":-600,"width":400,"height":400,"type":"link","url":"https://www.printables.com/model/323728-sosp-sim-racing-pedal-set"},
+		{"id":"e104cb126593c2f3","x":-120,"y":-560,"width":640,"height":360,"type":"link","url":"https://www.youtube.com/watch?v=I4P86DJPXAc"},
+		{"id":"e31da5acd10e1a3d","x":1200,"y":-560,"width":640,"height":360,"type":"link","url":"https://www.youtube.com/watch?v=Fp4gQ_euMsg"},
+		{"id":"20e1939c0384bedd","x":1960,"y":-560,"width":640,"height":360,"type":"link","url":"https://youtu.be/VL34nnuZUFQ"},
+		{"id":"26c9ecc55fc7cda0","x":1198,"y":-2000,"width":250,"height":68,"type":"text","text":"Shifter\n"},
+		{"id":"e576b14de70a975f","x":1212,"y":-1800,"width":472,"height":280,"type":"link","url":"https://youtu.be/AKZnvJ_tqVI"}
+	],
+	"edges":[
+		{"id":"35ac7c5ece38950c","fromNode":"11c6e3146ede7ab7","fromSide":"bottom","toNode":"5a3b368f2e385721","toSide":"top"},
+		{"id":"97f2ad2ca41ffa88","fromNode":"24488e0a8ce02527","fromSide":"bottom","toNode":"11c6e3146ede7ab7","toSide":"top"},
+		{"id":"cbf4a7b71be17b88","fromNode":"24488e0a8ce02527","fromSide":"bottom","toNode":"c229ec7891578c3c","toSide":"top"},
+		{"id":"ae411432edd21297","fromNode":"c229ec7891578c3c","fromSide":"bottom","toNode":"d9217b7e07fa2645","toSide":"top"},
+		{"id":"bdf61ee28d3acd56","fromNode":"11c6e3146ede7ab7","fromSide":"bottom","toNode":"e104cb126593c2f3","toSide":"top"},
+		{"id":"3f3ca956108d5a9c","fromNode":"c229ec7891578c3c","fromSide":"bottom","toNode":"e31da5acd10e1a3d","toSide":"top"},
+		{"id":"fca09f0f4f4a7388","fromNode":"c229ec7891578c3c","fromSide":"right","toNode":"20e1939c0384bedd","toSide":"top"},
+		{"id":"eaeda0ba1828041f","fromNode":"24488e0a8ce02527","fromSide":"right","toNode":"26c9ecc55fc7cda0","toSide":"left"},
+		{"id":"58d81254aed92b96","fromNode":"26c9ecc55fc7cda0","fromSide":"bottom","toNode":"e576b14de70a975f","toSide":"top"}
+	]
+}

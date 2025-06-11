@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c4b08358c600a2ed",
+        "id": "0ba952c9fa8499e3",
         "type": "tabs",
         "children": [
           {
-            "id": "84ee93199859c5d3",
+            "id": "4519073d4e20ba1f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "School/Numerikus/attachments/Numerikus integralas 2025-05-20 08.08.59.excalidraw.md"
+                "file": "School/OPrendszerek/Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Numerikus integralas 2025-05-20 08.08.59.excalidraw"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ]
@@ -76,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.5086555480957,
-    "collapsed": true
+    "width": 209.5086555480957
   },
   "right": {
     "id": "f12bdc532e83adb5",
@@ -206,38 +207,37 @@
       "publish:Publish changes...": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "84ee93199859c5d3",
+  "active": "4519073d4e20ba1f",
   "lastOpenFiles": [
-    "School/Numerikus/Interpolacios feladatok.md",
-    "School/Numerikus/Numerikus integralas.md",
-    "School/Numerikus/attachments/Numerikus integralas 2025-05-20 08.08.59.excalidraw.md",
-    "School/Programing/DSA/Graph.md",
-    "School/Numerikus/attachments/Interpolacios feladatok 2025-05-13 08.08.21.excalidraw.md",
-    "Robotics/You fucking missed these you blithering idiot (aka bevasarlolista).md",
-    "School/RendszerElmelet Jelek/Linearis Rendszerek Stabilitasa.md",
-    "School/RendszerElmelet Jelek/attachments/Linearis Rendszerek Stabilitasa 2025-05-07 11.38.33.excalidraw.md",
-    "School/Analog/Analog Vizsga Oszzefoglalo.md",
-    "School/RendszerElmelet Jelek/attachments/Linearis Rendszerek Stabilitasa 2025-05-07 11.07.56.excalidraw.md",
-    "School/RendszerElmelet Jelek/attachments/Linearis Rendszerek Stabilitasa 2025-05-07 10.10.17.excalidraw.md",
-    "School/RendszerElmelet Jelek/Bode diagram.md",
-    "School/architektura/Microarchitektura tombvazlat.md",
-    "School/OPrendszerek/attachments/IO adatatvitel 2025-05-06 12.43.00.excalidraw.md",
+    "School/OPrendszerek/UNIX Tortenelem.md",
+    "School/OPrendszerek/unix feleipitese.md",
+    "School/OPrendszerek/Uj folyamat nyitasa.md",
+    "School/OPrendszerek/Tombok.md",
+    "School/OPrendszerek/Szemaforok.md",
+    "School/OPrendszerek/Szemafork.md",
+    "School/OPrendszerek/STDIN STDOUT.md",
+    "School/OPrendszerek/Sed.md",
+    "School/OPrendszerek/Pipe.md",
+    "School/OPrendszerek/Oprendszerek 2 folytatas bevezetes.md",
+    "School/OPrendszerek/Opciok kezelese.md",
+    "School/OPrendszerek/Nice stuff to install.md",
+    "School/OPrendszerek/Monitorok.md",
+    "School/OPrendszerek/Mikroachtiektura mukodese oprendszerekben.md",
+    "School/OPrendszerek/Memoria Kezeles.md",
+    "School/OPrendszerek/Klasszikus IPC problemak.md",
+    "School/OPrendszerek/Kernel.md",
+    "School/OPrendszerek/IO eszkozok.md",
     "School/OPrendszerek/IO adatatvitel.md",
-    "School/RendszerElmelet Jelek/Kezi kozelito Bode diagram.md",
-    "School/RendszerElmelet Jelek/attachments/Kezi kozelito Bode diagram 2025-04-30 10.09.14.excalidraw.md",
-    "School/RendszerElmelet Jelek/FrekvenciaTartomanybeli vizsgalat (frekvencia fugveny).md",
-    "School/RendszerElmelet Jelek/LTI Rendszerek modellezese Laplace transzformacio.md",
-    "School/RendszerElmelet Jelek/Rendszerek.md",
-    "School/Numerikus/attachments/Interpolacios feladatok 2025-04-29 08.11.59.excalidraw.md",
-    "School/Numerikus/Nem linearis egyenletek numerikus megoldasa.md",
-    "School/Numerikus/attachments/Feladatok 2025-04-28 16.42.18.excalidraw.md",
-    "School/Numerikus/Feladatok.md",
-    "School/Numerikus/Linearis egyenletrendszerek megoldasa varacios modszerekkel.md",
-    "School/Numerikus/Cholsky felbontas.md",
+    "School/OPrendszerek/GCC commandok.md",
+    "School/OPrendszerek/Futatatasok.md",
+    "School/OPrendszerek/Functions.md",
+    "School/OPrendszerek/Fscanf Ferror Fdopen.md",
+    "School/OPrendszerek/File system in linux.md",
+    "School/OPrendszerek/File actions in C.md",
+    "School/OPrendszerek/Env Varialbles in C.md",
     "FunStuff/SimRig.canvas",
     "FunStuff",
     "Gaspar",

@@ -70,8 +70,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -110,12 +109,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Job/Synology NAS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Synology NAS"
+              "title": "Outgoing links"
             }
           },
           {
@@ -223,12 +221,12 @@
   },
   "active": "a3e5c8fd8a3768a0",
   "lastOpenFiles": [
+    "Untitled.base",
     "Untitled.md",
     "Untitled 2.md",
     "Untitled 1.md",
     "Untitled 1.base",
     "School/Digitalis Elektronika/eloadasok/4 bit Adder.md",
-    "Untitled.base",
     "Gaspar/Szenyviz.md",
     "Job/Jo BackUp opciok.md",
     "TODOS.md",

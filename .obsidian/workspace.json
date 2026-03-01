@@ -166,10 +166,10 @@
             "id": "30a55785fc85d203",
             "type": "leaf",
             "state": {
-              "type": "todo",
+              "type": "calendar",
               "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {

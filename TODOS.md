@@ -6,27 +6,27 @@ kanban-plugin: basic
 
 ## #todo TODO
 
-- [ ] pcb- nel a tekercset kicserleni nagyobbra
-- [ ] pico pinekre
 
 
 ## in progress #todo
 
-- [ ] rendszerElmeletszem
 
 
 ## completed
 
 **Complete**
-- [x] matlab
-- [x] lefko
-- [x] extra dsa
 
 
 ***
 
 ## Archive
 
+- [x] 03-02:00:49 pcb- nel a tekercset kicserleni nagyobbra
+- [x] 03-02:00:49 pico pinekre
+- [x] 03-02:00:49 rendszerElmeletszem
+- [x] 03-02:00:49 matlab
+- [x] 03-02:00:49 lefko
+- [x] 03-02:00:49 extra dsa
 - [x] 02-24:14:45 @{2024-12-12} ask @beni for opinion on all of this
 - [x] 02-24:14:45 @{2024-12-12} check out  backup software and an option for git like file changes
 - [x] 02-24:14:45 check for good backup options

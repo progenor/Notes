@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "711d0621efe122fc",
+        "id": "3eebdbd417f8fdc3",
         "type": "tabs",
         "children": [
           {
-            "id": "834d18ea94d44105",
+            "id": "a3e5c8fd8a3768a0",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -70,7 +70,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -124,7 +125,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -148,8 +151,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -158,8 +161,8 @@
             "state": {
               "type": "todo",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "todo"
             }
           },
           {
@@ -181,9 +184,19 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "3142e93a723d8083",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -192,6 +205,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -207,8 +221,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "834d18ea94d44105",
+  "active": "a3e5c8fd8a3768a0",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "Untitled 1.base",
+    "School/Digitalis Elektronika/eloadasok/4 bit Adder.md",
+    "Untitled.base",
+    "Gaspar/Szenyviz.md",
+    "Job/Jo BackUp opciok.md",
+    "TODOS.md",
+    "Excalidraw/Drawing 2026-03-02 00.49.04.excalidraw.md",
+    "Untitled 3.md",
     "School/OPrendszerek/Untitled.md",
     "School/OPrendszerek/UNIX Tortenelem.md",
     "School/OPrendszerek/unix feleipitese.md",
@@ -225,16 +250,6 @@
     "School/OPrendszerek/Monitorok.md",
     "School/OPrendszerek/Mikroachtiektura mukodese oprendszerekben.md",
     "School/OPrendszerek/Memoria Kezeles.md",
-    "School/OPrendszerek/Klasszikus IPC problemak.md",
-    "School/OPrendszerek/Kernel.md",
-    "School/OPrendszerek/IO eszkozok.md",
-    "School/OPrendszerek/IO adatatvitel.md",
-    "School/OPrendszerek/GCC commandok.md",
-    "School/OPrendszerek/Futatatasok.md",
-    "School/OPrendszerek/Functions.md",
-    "School/OPrendszerek/Fscanf Ferror Fdopen.md",
-    "School/OPrendszerek/File system in linux.md",
-    "School/OPrendszerek/File actions in C.md",
     "FunStuff/SimRig.canvas",
     "FunStuff",
     "Gaspar",
@@ -254,9 +269,7 @@
     "School/Merestechnika/Laborok/attachments/attachments",
     "School/Merestechnika/Laborok/attachments/muveletierosito.pdf",
     "School/OPrendszerek/attachments/OP_5_6_2020.pdf",
-    "School/OPrendszerek/attachments/attachments",
     "Robotics/Line Folower.canvas",
-    "Robotics/Components and money.canvas",
-    "School/Numerikus/attachments/attachments"
+    "Robotics/Components and money.canvas"
   ]
 }

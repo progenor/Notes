@@ -1,0 +1,1 @@
+![[Hazi feladat 2025-05-28 07.33.11.excalidraw]]

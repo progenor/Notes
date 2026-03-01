@@ -6,29 +6,32 @@ kanban-plugin: basic
 
 ## #todo TODO
 
-- [ ] Javitsd meg azt amelyik nem tudj sokat generalni
-- [ ] Irj meg sajat adatokat mindegyikhez
+- [ ] pcb- nel a tekercset kicserleni nagyobbra
+- [ ] pico pinekre
 
 
 ## in progress #todo
 
-- [ ] Csinlad meg a PDF et hozza a rajzot es magyarazatot meg stb
+- [ ] rendszerElmeletszem
 
 
 ## completed
 
 **Complete**
-- [x] SQL EXPLAIN lekerdezesek
-- [x] Kossd hozza egy masik SQL tipus adatbazishoz
-- [x] befejzni az SQL es lekerdezeseket
-- [x] Ird ki a hulye FOREiNG KEY PK es stb tarsait WORD ban
-- [x] befejezni az UI reszt
+- [x] matlab
+- [x] lefko
+- [x] extra dsa
 
 
 ***
 
 ## Archive
 
+- [x] 02-24:14:45 @{2024-12-12} ask @beni for opinion on all of this
+- [x] 02-24:14:45 @{2024-12-12} check out  backup software and an option for git like file changes
+- [x] 02-24:14:45 check for good backup options
+- [x] 02-24:14:45 @{2024-12-12} create a xls for the [[Synology NAS]] component prices options
+- [x] 12-06:00:06 befejzni az SQL es cuccoakat
 - [x] 09-23:08:01 Digitalis elozo hazi feladat debug @{2024-05-23}
 - [x] 09-23:08:01 Digitalis hazi feladat @{2024-05-23}
 - [x] 09-23:08:01 Fizika jegyzet @{2024-05-23}

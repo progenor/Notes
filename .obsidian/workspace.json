@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "c144799ac62ac215",
+    "id": "2b6da02a41448c16",
     "type": "split",
     "children": [
       {
-        "id": "a5acf7d4ac9df7d2",
+        "id": "711d0621efe122fc",
         "type": "tabs",
         "children": [
           {
-            "id": "b0c781b7b6b5f997",
+            "id": "834d18ea94d44105",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "School/Rendszerelmelet/Lab 5 Frekvencia Bode Nyquist.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Lab 5 Frekvencia Bode Nyquist"
+              "title": "New tab"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "29cbf6ad4daaaed9",
+    "id": "642e5b2566184ef5",
     "type": "split",
     "children": [
       {
-        "id": "a4d278dcb78cd6c5",
+        "id": "8d3043531c982852",
         "type": "tabs",
         "children": [
           {
-            "id": "5a8d5c825f3f40e3",
+            "id": "8e1e0ba9a057dc30",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,12 +44,12 @@
             }
           },
           {
-            "id": "333c2fe9eaa4fa94",
+            "id": "005031aaccea5cd2",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "database create",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +61,7 @@
             }
           },
           {
-            "id": "8c5900c8313a9257",
+            "id": "17195c40d878583c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,24 +74,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 209.5086555480957
   },
   "right": {
-    "id": "2af3991c09b80762",
+    "id": "f12bdc532e83adb5",
     "type": "split",
     "children": [
       {
-        "id": "590d62fbb0669f1e",
+        "id": "f18d8f8fa44c6ae8",
         "type": "tabs",
         "children": [
           {
-            "id": "08b3ad41bf143f3e",
+            "id": "6154f63052e38416",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Database/Database Security.md",
+                "file": "Job/Synology NAS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,25 +100,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Database Security"
+              "title": "Backlinks for Synology NAS"
             }
           },
           {
-            "id": "a420bb2077b86ff8",
+            "id": "1a4262197355f705",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Database/Database Security.md",
+                "file": "Job/Synology NAS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Database Security"
+              "title": "Outgoing links from Synology NAS"
             }
           },
           {
-            "id": "1985964f0e44c7e2",
+            "id": "835aeb9bf55595e9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -136,19 +131,39 @@
             }
           },
           {
-            "id": "03ad98982023dbd6",
+            "id": "31ced294de1bb9ff",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Database/Database Security.md"
+                "file": "Job/Synology NAS.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Database Security"
+              "title": "Outline of Synology NAS"
             }
           },
           {
-            "id": "983faf02115508d9",
+            "id": "e1a29408efc4e177",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "9d51ee20a0bed84e",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "30a55785fc85d203",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -158,17 +173,17 @@
             }
           },
           {
-            "id": "8a544aff94e42e61",
+            "id": "b584cf79bd09b2e6",
             "type": "leaf",
             "state": {
-              "type": "todo",
+              "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -192,40 +207,56 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b0c781b7b6b5f997",
+  "active": "834d18ea94d44105",
   "lastOpenFiles": [
-    "School/Rendszerelmelet/attachments/Pasted image 20250414083631.png",
-    "School/Rendszerelmelet/attachments/Pasted image 20250414082312.png",
-    "School/Rendszerelmelet/Lab 4 Rendszerek.md",
-    "School/Rendszerelmelet/Lab 5 Frekvencia Bode Nyquist.md",
-    "School/Rendszerelmelet/attachments/Lab 4 Rendszerek 2025-03-31 11.15.51.excalidraw.md",
-    "Untitled 1.md",
-    "School/Rendszerelmelet/attachments",
-    "School/Rendszerelmelet",
-    "School/attachments/Lab3 Konvolucio 2025-03-30 21.36.08.excalidraw.md",
-    "School/Rendszerelmelet/Lab3 Konvolucio.md",
-    "School/Database/Vizsga Keszulodes.md",
-    "School/Database/Rendorseg.md",
-    "School/Database/SQL.md",
-    "School/Database/Sequences.md",
-    "School/Database/Select more options.md",
-    "School/Database/Sql Matek Alapok.md",
-    "School/Database/HomeMonitorCompleteDocumentation.md",
-    "School/Database/Home monitor Create functions.md",
-    "School/Database/Constraint.md",
-    "School/Database/Ceg Feladat.md",
-    "School/Database/Alter and modify drop.md",
-    "School/architektura/Virtualis Memoria Virtual Memory.md",
-    "School/architektura/Memoria PSM.md",
-    "School/architektura/mikro utasitasok Instruction set.md",
-    "School/architektura/Register Block.md",
-    "School/architektura/Stack.md",
-    "School/architektura/Utasitas Keszlet felepitese.md",
-    "School/architektura/Utasitasok felepitesee.md",
-    "School/architektura/Vezerloegyseg.md",
-    "School/Database/attachments/Home Monitor.svg",
-    "School/Database/attachments/DatabaseDocument.pdf",
-    "School/architektura/attachments/Pasted image 20241007084611.png",
-    "Robotics/Components and money.canvas"
+    "School/OPrendszerek/Untitled.md",
+    "School/OPrendszerek/UNIX Tortenelem.md",
+    "School/OPrendszerek/unix feleipitese.md",
+    "School/OPrendszerek/Uj folyamat nyitasa.md",
+    "School/OPrendszerek/Tombok.md",
+    "School/OPrendszerek/Szemaforok.md",
+    "School/OPrendszerek/Szemafork.md",
+    "School/OPrendszerek/STDIN STDOUT.md",
+    "School/OPrendszerek/Sed.md",
+    "School/OPrendszerek/Pipe.md",
+    "School/OPrendszerek/Oprendszerek 2 folytatas bevezetes.md",
+    "School/OPrendszerek/Opciok kezelese.md",
+    "School/OPrendszerek/Nice stuff to install.md",
+    "School/OPrendszerek/Monitorok.md",
+    "School/OPrendszerek/Mikroachtiektura mukodese oprendszerekben.md",
+    "School/OPrendszerek/Memoria Kezeles.md",
+    "School/OPrendszerek/Klasszikus IPC problemak.md",
+    "School/OPrendszerek/Kernel.md",
+    "School/OPrendszerek/IO eszkozok.md",
+    "School/OPrendszerek/IO adatatvitel.md",
+    "School/OPrendszerek/GCC commandok.md",
+    "School/OPrendszerek/Futatatasok.md",
+    "School/OPrendszerek/Functions.md",
+    "School/OPrendszerek/Fscanf Ferror Fdopen.md",
+    "School/OPrendszerek/File system in linux.md",
+    "School/OPrendszerek/File actions in C.md",
+    "FunStuff/SimRig.canvas",
+    "FunStuff",
+    "Gaspar",
+    "School/OPrendszerek/attachments/attachments/Pasted Image 20250415155202_502.png",
+    "School/OPrendszerek/attachments/attachments/Pasted Image 20250415151637_494.png",
+    "School/OPrendszerek/attachments/attachments/Pasted Image 20250415151528_669.png",
+    "School/OPrendszerek/attachments/attachments/Pasted Image 20250415150820_264.png",
+    "School/OPrendszerek/attachments/attachments/Pasted Image 20250415150239_392.png",
+    "School/OPrendszerek/attachments/attachments/Pasted Image 20250415150053_159.png",
+    "School/OPrendszerek/attachments/attachments/Pasted Image 20250415145820_323.png",
+    "School/OPrendszerek/attachments/attachments/Pasted Image 20250415145742_166.png",
+    "School/OPrendszerek/attachments/Pasted image 20250415144618.png",
+    "School/OPrendszerek/attachments/Pasted image 20250408150343.png",
+    "School/OPrendszerek/attachments/OP_5_6.pdf",
+    "School/Merestechnika/attachments/Villamos Elektronikus es Virtualis Meresek_REAL.pdf",
+    "School/Merestechnika/attachments/attachments",
+    "School/Merestechnika/Laborok/attachments/attachments",
+    "School/Merestechnika/Laborok/attachments/muveletierosito.pdf",
+    "School/OPrendszerek/attachments/OP_5_6_2020.pdf",
+    "School/OPrendszerek/attachments/attachments",
+    "Robotics/Line Folower.canvas",
+    "Robotics/Components and money.canvas",
+    "School/Numerikus/attachments/attachments"
   ]
 }

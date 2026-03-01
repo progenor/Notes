@@ -1,0 +1,1 @@
+![[Szenyviz 2025-04-16 08.48.52.excalidraw]]

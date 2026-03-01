@@ -1,0 +1,1 @@
+![[Elemi jelek 2025-03-19 10.09.15.excalidraw|100%]]

@@ -58,4 +58,4 @@ tobb fajta van mult oran vettek szoval fucked
 ![[Memoriak Memories 2024-11-25 09.14.09.excalidraw|100%]]
 
 ![[Memoriak Memories 2024-11-25 09.29.25.excalidraw|100%]]
-[[Virtualis Memoria Virtual Memory]]
+[[Virtualis Memoria Virtual Memory (Cache)]]

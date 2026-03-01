@@ -1,0 +1,1 @@
+![[Chelsky felbontas 2025-03-13 10.31.34.excalidraw]]

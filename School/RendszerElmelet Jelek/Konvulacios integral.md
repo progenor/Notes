@@ -1,0 +1,1 @@
+![[Konvulacios integral 2025-03-12 11.23.42.excalidraw|100%]]

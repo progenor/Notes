@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"e59ef34d22912a70","x":-180,"y":-520,"width":250,"height":60,"color":"2","type":"text","text":"Motor Driver"},
+		{"id":"d10d8147b3bbf48f","x":-330,"y":-300,"width":400,"height":400,"type":"link","url":"https://cdn.sparkfun.com/datasheets/Robotics/TB6612FNG.pdf"}
+	],
+	"edges":[
+		{"id":"db39341d3c6694eb","fromNode":"e59ef34d22912a70","fromSide":"bottom","toNode":"d10d8147b3bbf48f","toSide":"top","label":"nr. 2"}
+	]
+}

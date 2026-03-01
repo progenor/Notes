@@ -41,4 +41,4 @@ date: 2024-12-02
 
 ![[Cimforditas]]
 
-![[Feladat]]
+![[Feladat Virtualis memoria]]

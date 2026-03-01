@@ -1,7 +1,7 @@
 {
 	"nodes":[
-		{"id":"c431caa1976d0d38","x":-680,"y":-1300,"width":1740,"height":600,"type":"link","url":"https://docs.google.com/spreadsheets/d/1yOJUk7KRwfusqJh9TjckbEIxStp7AZg4TlGB9km8gJM/edit?gid=1933706777#gid=1933706777"},
-		{"id":"396f19be4731e140","type":"file","file":"Robotics/Alkatreszek.md","x":-450,"y":-580,"width":1280,"height":1020}
+		{"id":"c431caa1976d0d38","type":"link","url":"https://docs.google.com/spreadsheets/d/1yOJUk7KRwfusqJh9TjckbEIxStp7AZg4TlGB9km8gJM/edit?gid=1933706777#gid=1933706777","x":-680,"y":-1300,"width":1740,"height":600},
+		{"id":"396f19be4731e140","type":"file","file":"Robotics/Alkatreszek.md","x":-450,"y":-580,"width":1280,"height":1060}
 	],
 	"edges":[
 		{"id":"84b0c7d0982e2be1","fromNode":"c431caa1976d0d38","fromSide":"bottom","toNode":"396f19be4731e140","toSide":"top"}

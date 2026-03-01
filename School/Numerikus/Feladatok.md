@@ -1,0 +1,1 @@
+![[Feladatok 2025-04-28 16.42.18.excalidraw]]

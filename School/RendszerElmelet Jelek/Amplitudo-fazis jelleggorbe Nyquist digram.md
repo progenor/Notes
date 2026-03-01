@@ -1,0 +1,1 @@
+![[Amplitudo-fazis jelleggorbe Nyquist digram 2025-04-16 10.41.57.excalidraw]]

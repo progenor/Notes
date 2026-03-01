@@ -1,0 +1,1 @@
+![[Gyakorlatban elofordulo tagok leirasa 2025-03-26 11.18.10.excalidraw]]

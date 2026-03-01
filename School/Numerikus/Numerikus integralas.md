@@ -1,0 +1,1 @@
+![[Numerikus integralas 2025-05-20 08.08.59.excalidraw]]

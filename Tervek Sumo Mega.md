@@ -11,3 +11,8 @@ small switch for the board
 
 # [[Motor Driver Pololu G2]] setup
 connected to the board with lock nuts
+\
+
+
+# TODO:
+berakni a sumo board ot is

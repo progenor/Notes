@@ -16,3 +16,5 @@ connected to the board with lock nuts
 
 # TODO:
 berakni a sumo board ot is
+
+# [[PCB Mega Sumo]]

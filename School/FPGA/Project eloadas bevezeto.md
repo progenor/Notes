@@ -38,3 +38,6 @@ date: "{{date}}"
 ==48 oraval azelott a dokumentacio ami fel van toltve==
 
 # Projekt branch a main
+
+
+[[FPGA bevezeto]]
